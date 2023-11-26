@@ -88,7 +88,7 @@ Ensemble des cours de menuiserie au format DOC et PDF en acces libre :
 ---
 
 - Les portes intérieures
-- Bâti et huisserie
+- Les Bâtis et les huisseries
 - Le parquet
 - Les fenetres
 - Les volets
