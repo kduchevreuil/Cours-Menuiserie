@@ -60,7 +60,7 @@ Ensemble des cours de menuiserie au format DOC et PDF en acces libre :
 - Le montage d'usinage
 - Le chevillage
 - Le système 32
-- L'optimisation des panneaux
+- Le calpinage
 - La maintenance
 - Analogie des machines outils
 - Les symboles conventionnels des machines
@@ -102,13 +102,6 @@ Ensemble des cours de menuiserie au format DOC et PDF en acces libre :
 
 <p align="center">
 
-<a href="https://kduchevreuil.blogspot.com/" target="_blank">
-<img 
-class="IMGlink"
-src="./icones RS/blogger.png"
-width= 9%/>
-</a>
-
 <a href="https://www.facebook.com/kduchevreuil/" target="_blank">
 <img 
 class="IMGlink"
@@ -144,13 +137,6 @@ src="./icones RS/pinterest.png"
 width= 9%/>
 </a>
 
-<a href="https://www.snapchat.com/add/kduchevreuil" target="_blank">
-<img 
-class="IMGlink"
-src="./icones RS/snapchat.png"
-width= 9%/>
-</a>
-
 <a href="https://www.tiktok.com/@kduchevreuil" target="_blank">
 <img 
 class="IMGlink"
@@ -169,13 +155,6 @@ width= 9%/>
 <img 
 class="IMGlink"
 src="./icones RS/youtube.png"
-width= 9%/>
-</a>
-
-<a href="https://www.threads.net/@kduchevreuil" target="_blank">
-<img 
-class="IMGlink"
-src="./icones RS/threads.png"
 width= 9%/>
 </a>
 
