@@ -3,7 +3,7 @@
 Ensemble des cours de menuiserie au format DOC, DOCX, PPTC et PDF en acces libre :
 
 - Les compétences du menuisier
-- Les ouvrages du menuiserie
+- Les ouvrages du menuisier
 - Découverte de l'atelier
 - Les métiers du bois
 - Les différents corps d'état
@@ -36,8 +36,12 @@ Ensemble des cours de menuiserie au format DOC, DOCX, PPTC et PDF en acces libre
 
 ---
 
-- L'outillage manuel
-- Le racloir
+- L'outillage
+  - Le racloir
+  - Le ciseau à bois
+  - Les outils de traçage
+  - Les outils de mesure
+  - Les scies à main
 - L'éléctroportatif
 - La scie radiale
 - La scie à format
@@ -103,6 +107,9 @@ Ensemble des cours de menuiserie au format DOC, DOCX, PPTC et PDF en acces libre
 - Le lambris
 - Les gardes corps
 - Les escaliers
+  - Le vocabulaire de l'escalier
+  - Les escaliers droits
+  - Les escaliers tournants
 - Le bardage
 - Les faux plafonds
 
