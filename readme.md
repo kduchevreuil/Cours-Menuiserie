@@ -1,10 +1,10 @@
 # Les cours de menuiserie
 
-Ensemble des cours de menuiserie au format DOC et PDF en acces libre :
+Ensemble des cours de menuiserie au format DOC, DOCX, PPTC et PDF en acces libre :
 
 - Les compétences du menuisier
 - Les ouvrages du menuiserie
-- Découverte de l'aterlier
+- Découverte de l'atelier
 - Les métiers du bois
 - Les différents corps d'état
 - Les EPI et la manutention
@@ -14,10 +14,18 @@ Ensemble des cours de menuiserie au format DOC et PDF en acces libre :
 - L'arbre
 - Les fôrets
 - Les débits de bois
-- Les essences
+- Les essences de bois
+  - Les bois résineux
+  - Les bois feuillus
+  - Les défauts du bois
+  - Les bois exotiques
 - La rétractabilité
 - Le sechage
 - Les défauts du bois
+  - Les insectes
+  - Les champignons
+  - Les moisissures
+  - Les causes externes
 - Les propriétés méchaniques du bois
 - Les panneaux dérivés du bois
 - Les pointes
@@ -98,7 +106,7 @@ Ensemble des cours de menuiserie au format DOC et PDF en acces libre :
 - Le bardage
 - Les faux plafonds
 
-## Ajoutez moi sur vos réseaux !
+## Mes réseaux sociaux :
 
 <p align="center">
 
