@@ -15,19 +15,30 @@ Ensemble des cours de menuiserie au format DOC, DOCX, PPTC et PDF en acces libre
 - Les fôrets
 - Les débits de bois
 - Les essences de bois
+
   - Les bois résineux
   - Les bois feuillus
   - Les défauts du bois
   - Les bois exotiques
+
 - La rétractabilité
 - Le sechage
 - Les défauts du bois
+
   - Les insectes
   - Les champignons
   - Les moisissures
   - Les causes externes
+
 - Les propriétés méchaniques du bois
 - Les panneaux dérivés du bois
+
+  - L'OSB
+  - Le MDF
+  - Le CP
+  - L'alvéolaire
+  - l'aggloméré
+
 - Les pointes
 - Le vissage
 - Les coullisses
