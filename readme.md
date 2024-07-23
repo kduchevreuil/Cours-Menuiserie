@@ -18,11 +18,14 @@ Ensemble des cours de menuiserie au format DOC, DOCX, PPTC et PDF en acces libre
 
   - Les bois résineux
   - Les bois feuillus
-  - Les défauts du bois
   - Les bois exotiques
 
 - La rétractabilité
 - Le sechage
+
+  - Le séchage naturel
+  - Le séchage artificiel
+
 - Les défauts du bois
 
   - Les insectes
@@ -43,16 +46,25 @@ Ensemble des cours de menuiserie au format DOC, DOCX, PPTC et PDF en acces libre
 - Le vissage
 - Les coullisses
 - La quincaillerie
+
+  - Les paumelles
+  - Les charnières
+  - Les fiches
+  - Le ferrage
+
 - Les fixations
 
 ---
 
-- L'outillage
+- L'outillage à main
+
   - Le racloir
   - Le ciseau à bois
   - Les outils de traçage
   - Les outils de mesure
   - Les scies à main
+  - Les rabots
+
 - L'éléctroportatif
 - La scie radiale
 - La scie à format
@@ -74,10 +86,27 @@ Ensemble des cours de menuiserie au format DOC, DOCX, PPTC et PDF en acces libre
 
 - Les signes d'établissement
 - L'affutage
+
+  - L'affutage des ciseaux
+  - L'affutage des scies
+  - Les machines d'affutage
+
 - La fiche de débit
 - Les assemblages
+
+  - Lamello et domino
+  - Les tenons et mortaises
+  - Les rainures et languettes
+  - Les tourillons
+
+- Les moulures
 - Le collage
+  - Les types de colles
+  - Les étapes du collage
 - Le serrage
+
+  - Les outils de serrage
+
 - La finition
 - L'épure
 - Le montage d'usinage
@@ -111,7 +140,7 @@ Ensemble des cours de menuiserie au format DOC, DOCX, PPTC et PDF en acces libre
 ---
 
 - Les portes intérieures
-- Les Bâtis et les huisseries
+- Les bâtis et les huisseries
 - Le parquet
 - Les fenetres
 - Les volets
