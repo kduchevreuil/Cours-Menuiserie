@@ -66,18 +66,31 @@ Ensemble des cours de menuiserie au format DOC, DOCX, PPTC et PDF en acces libre
   - Les rabots
 
 - L'éléctroportatif
-- La scie radiale
-- La scie à format
-- les lames de scies circulaire
-- La scie à ruban
-- La scie à panneaux
-- La dégauchisseuse
-- La raboteuse
-- La corroyeuse 4 faces
-- La mortaiseuse
-- La tenoneuse
-- La toupie
-- Le profilage
+
+  - La perceuse
+  - La visseuse
+  - La ponceuse
+  - La défonceuse
+  - La scie sauteuse
+  - Le rabot éléctrique
+
+- Les machines stationnaires
+
+  - La scie radiale
+  - La scie à format
+  - les lames de scies circulaire
+  - La scie à ruban
+  - La scie à panneaux
+  - La dégauchisseuse
+  - La raboteuse
+  - La corroyeuse 4 faces
+  - La mortaiseuse
+  - La tenoneuse
+  - La toupie
+  - La perceuse à colonne
+  - La mortaiseuse
+
+- Le profilage (les moulures)
 - Les outils de coupe (toupie)
 - La calibreuse
 - Le centre d'usinage numérique
@@ -99,10 +112,11 @@ Ensemble des cours de menuiserie au format DOC, DOCX, PPTC et PDF en acces libre
   - Les rainures et languettes
   - Les tourillons
 
-- Les moulures
 - Le collage
+
   - Les types de colles
   - Les étapes du collage
+
 - Le serrage
 
   - Les outils de serrage
@@ -147,9 +161,11 @@ Ensemble des cours de menuiserie au format DOC, DOCX, PPTC et PDF en acces libre
 - Le lambris
 - Les gardes corps
 - Les escaliers
+
   - Le vocabulaire de l'escalier
   - Les escaliers droits
   - Les escaliers tournants
+
 - Le bardage
 - Les faux plafonds
 
