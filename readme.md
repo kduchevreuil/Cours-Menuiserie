@@ -2,11 +2,7 @@
 
 Ensemble des cours de menuiserie au format DOC, DOCX, PPTC et PDF en acces libre :
 
----
-
 ## Les bases du métier de menuisier
-
----
 
 - Les compétences du menuisier
 - Les ouvrages du menuisier
@@ -15,11 +11,7 @@ Ensemble des cours de menuiserie au format DOC, DOCX, PPTC et PDF en acces libre
 - Les différents corps d'état
 - Les EPI et la manutention
 
----
-
 ## Les matériaux
-
----
 
 - L'arbre
 - Les fôrets
@@ -54,11 +46,7 @@ Ensemble des cours de menuiserie au format DOC, DOCX, PPTC et PDF en acces libre
   - Le ferrage
 - Les fixations
 
----
-
 ## Les outils et les machines
-
----
 
 - L'outillage à main
   - Le racloir
@@ -93,11 +81,7 @@ Ensemble des cours de menuiserie au format DOC, DOCX, PPTC et PDF en acces libre
 - La calibreuse
 - Le centre d'usinage numérique
 
----
-
-## Les techniques et les méthodes
-
----
+## Techniques et méthodes de travail
 
 - Les signes d'établissement
 - L'affutage
@@ -145,11 +129,7 @@ Ensemble des cours de menuiserie au format DOC, DOCX, PPTC et PDF en acces libre
 - Le mode opératoire
 - Le métrage (relevé de mesures)
 
----
-
 ## Les ouvrages de menuiserie
-
----
 
 - Les portes intérieures
 - Les bâtis et les huisseries
@@ -165,16 +145,24 @@ Ensemble des cours de menuiserie au format DOC, DOCX, PPTC et PDF en acces libre
 - Le bardage
 - Les faux plafonds
 
----
-
 ## Le dessin technique
 
----
-
+- Les bases du dessin
+- Les vues
+- Les coupes
 - Le logiciel Sketchup
   - les bases du logiciel
   - L'utilisation des outils avancés
   - la mise en plan
+
+## Dossiers techniques
+
+- Les entailles
+- Le tabouret
+- La table basse
+- La table de chevet
+- La table de salon
+- La table de salle à manger
 
 ## Mes réseaux sociaux :
 
