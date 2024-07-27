@@ -4,7 +4,7 @@ Ensemble des cours de menuiserie au format DOC, DOCX, PPTC et PDF en acces libre
 
 ---
 
-Les bases du métier de menuisier
+## Les bases du métier de menuisier
 
 ---
 
@@ -17,7 +17,7 @@ Les bases du métier de menuisier
 
 ---
 
-Les matériaux
+## Les matériaux
 
 ---
 
@@ -56,7 +56,7 @@ Les matériaux
 
 ---
 
-Les outils et les machines
+## Les outils et les machines
 
 ---
 
@@ -92,6 +92,10 @@ Les outils et les machines
 - Les outils de coupe (toupie)
 - La calibreuse
 - Le centre d'usinage numérique
+
+---
+
+## Les techniques et les méthodes
 
 ---
 
@@ -143,7 +147,7 @@ Les outils et les machines
 
 ---
 
-Les ouvrage de menuiserie
+## Les ouvrages de menuiserie
 
 ---
 
@@ -160,6 +164,10 @@ Les ouvrage de menuiserie
   - Les escaliers tournants
 - Le bardage
 - Les faux plafonds
+
+---
+
+## Le dessin technique
 
 ---
 
