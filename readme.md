@@ -2,6 +2,11 @@
 
 Ensemble des cours de menuiserie au format DOC, DOCX, PPTC et PDF en acces libre :
 
+Index des cours :
+🔴 A améliorer
+🟡 En cours de rédaction
+🟢 Terminé
+
 ## Les bases du métier de menuisier
 
 - Les compétences du menuisier
@@ -10,6 +15,7 @@ Ensemble des cours de menuiserie au format DOC, DOCX, PPTC et PDF en acces libre
 - Les métiers du bois
 - Les différents corps d'état
 - Les EPI et la manutention
+  456
 
 ## Les matériaux
 
@@ -158,11 +164,11 @@ Ensemble des cours de menuiserie au format DOC, DOCX, PPTC et PDF en acces libre
 ## Dossiers techniques
 
 - Les entailles
+- Le noeud
+- Le dessous de table
 - Le tabouret
 - La table basse
 - La table de chevet
-- La table de salon
-- La table de salle à manger
 
 ## Mes réseaux sociaux :
 
