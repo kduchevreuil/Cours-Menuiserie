@@ -2,12 +2,6 @@
 
 Ensemble des cours de menuiserie au format DOC, DOCX, PPTC et PDF en acces libre <br>
 
-Index des cours <br>
-
-- 🔴 A améliorer
-- 🟡 En cours de rédaction
-- 🟢 Terminé
-
 ## Les bases du métier de menuisier
 
 - Les compétences du menuisier <br>
@@ -642,7 +636,7 @@ Index des cours <br>
   [PPT](lien_vers_le_fichier.pptx),
   [PPTX](lien_vers_le_fichier.pptx).
 - Les escaliers
-  - Le vocabulaire de l'escalier <br>
+  - 🟢 Le vocabulaire de l'escalier <br>
     [PDF](https://github.com/kduchevreuil/Cours-Menuiserie/blob/main/Cours%20termin%C3%A9s/Le%20vocabulaire%20de%20l'escalier.pdf),
     [PPS](https://github.com/kduchevreuil/Cours-Menuiserie/blob/main/Cours%20termin%C3%A9s/Le%20vocabulaire%20de%20l'escalier.pps),
     [PPT](https://github.com/kduchevreuil/Cours-Menuiserie/blob/main/Cours%20termin%C3%A9s/Le%20vocabulaire%20de%20l'escalier.ppt),
