@@ -3,9 +3,10 @@
 Ensemble des cours de menuiserie au format DOC, DOCX, PPTC et PDF en acces libre :
 
 Index des cours :
-🔴 A améliorer
-🟡 En cours de rédaction
-🟢 Terminé
+
+- 🔴 A améliorer
+- 🟡 En cours de rédaction
+- 🟢 Terminé
 
 ## Les bases du métier de menuisier
 
@@ -15,17 +16,20 @@ Index des cours :
 - Les métiers du bois
 - Les différents corps d'état
 - Les EPI et la manutention
-  456
 
 ## Les matériaux
 
 - L'arbre
 - Les fôrets
+  - La forêt française
+  - La forêt européenne
+  - La forêt mondiale
 - Les débits de bois
 - Les essences de bois
   - Les bois résineux
   - Les bois feuillus
   - Les bois exotiques
+- L'anatomie du bois
 - La rétractabilité
 - Le sechage
   - Le séchage naturel
@@ -36,6 +40,7 @@ Index des cours :
   - Les moisissures
   - Les causes externes
 - Les propriétés méchaniques du bois
+- Les propriétés chimiques du bois
 - Les panneaux dérivés du bois
   - L'OSB
   - Le MDF
@@ -153,6 +158,10 @@ Index des cours :
 
 ## Le dessin technique
 
+- Les échelles
+- La conversion
+- La perspective eclatée
+- L'épure
 - Les bases du dessin
 - Les vues
 - Les coupes
