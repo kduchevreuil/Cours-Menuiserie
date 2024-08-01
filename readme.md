@@ -1,8 +1,8 @@
 # Les cours de menuiserie
 
-Ensemble des cours de menuiserie au format DOC, DOCX, PPTC et PDF en acces libre :
+Ensemble des cours de menuiserie au format DOC, DOCX, PPTC et PDF en acces libre <br>
 
-Index des cours :
+Index des cours <br>
 
 - 🔴 A améliorer
 - 🟡 En cours de rédaction
@@ -10,42 +10,42 @@ Index des cours :
 
 ## Les bases du métier de menuisier
 
-- Les compétences du menuisier :
+- Les compétences du menuisier <br>
   [PDF](lien_vers_le_fichier.pdf),
   [DOC](lien_vers_le_fichier.doc),
   [DOCX](lien_vers_le_fichier.docx),
   [PPT](lien_vers_le_fichier.pptx).
   [PPTX](lien_vers_le_fichier.pptx).
 
-- Les ouvrages du menuisier :
+- Les ouvrages du menuisier <br>
   [PDF](lien_vers_le_fichier.pdf),
   [DOC](lien_vers_le_fichier.doc),
   [DOCX](lien_vers_le_fichier.docx),
   [PPT](lien_vers_le_fichier.pptx).
   [PPTX](lien_vers_le_fichier.pptx).
 
-- Découverte de l'atelier:
+- Découverte de l'atelier<br>
   [PDF](lien_vers_le_fichier.pdf),
   [DOC](lien_vers_le_fichier.doc),
   [DOCX](lien_vers_le_fichier.docx),
   [PPT](lien_vers_le_fichier.pptx).
   [PPTX](lien_vers_le_fichier.pptx).
 
-- Les métiers du bois:
+- Les métiers du bois<br>
   [PDF](lien_vers_le_fichier.pdf),
   [DOC](lien_vers_le_fichier.doc),
   [DOCX](lien_vers_le_fichier.docx),
   [PPT](lien_vers_le_fichier.pptx).
   [PPTX](lien_vers_le_fichier.pptx).
 
-- Les différents corps d'état :
+- Les différents corps d'état <br>
   [PDF](lien_vers_le_fichier.pdf),
   [DOC](lien_vers_le_fichier.doc),
   [DOCX](lien_vers_le_fichier.docx),
   [PPT](lien_vers_le_fichier.pptx).
   [PPTX](lien_vers_le_fichier.pptx).
 
-- Les EPI et la manutention :
+- Les EPI et la manutention <br>
   [PDF](lien_vers_le_fichier.pdf),
   [DOC](lien_vers_le_fichier.doc),
   [DOCX](lien_vers_le_fichier.docx),
@@ -54,202 +54,202 @@ Index des cours :
 
 ## Les matériaux
 
-- L'arbre :
+- L'arbre <br>
   [PDF](lien_vers_le_fichier.pdf),
   [DOC](lien_vers_le_fichier.doc),
   [DOCX](lien_vers_le_fichier.docx),
   [PPT](lien_vers_le_fichier.pptx).
   [PPTX](lien_vers_le_fichier.pptx).
 
-- Les fôrets :
+- Les fôrets <br>
 
-  - La forêt française :
+  - La forêt française <br>
     [PDF](lien_vers_le_fichier.pdf),
     [DOC](lien_vers_le_fichier.doc),
     [DOCX](lien_vers_le_fichier.docx),
     [PPT](lien_vers_le_fichier.pptx).
     [PPTX](lien_vers_le_fichier.pptx).
-  - La forêt européenne :
+  - La forêt européenne <br>
     [PDF](lien_vers_le_fichier.pdf),
     [DOC](lien_vers_le_fichier.doc),
     [DOCX](lien_vers_le_fichier.docx),
     [PPT](lien_vers_le_fichier.pptx).
     [PPTX](lien_vers_le_fichier.pptx).
-  - La forêt mondiale :
-    [PDF](lien_vers_le_fichier.pdf),
-    [DOC](lien_vers_le_fichier.doc),
-    [DOCX](lien_vers_le_fichier.docx),
-    [PPT](lien_vers_le_fichier.pptx).
-    [PPTX](lien_vers_le_fichier.pptx).
-
-- Les débits de bois :
-  [PDF](lien_vers_le_fichier.pdf),
-  [DOC](lien_vers_le_fichier.doc),
-  [DOCX](lien_vers_le_fichier.docx),
-  [PPT](lien_vers_le_fichier.pptx).
-  [PPTX](lien_vers_le_fichier.pptx).
-- Les essences de bois :
-
-  - Les bois résineux :
-    [PDF](lien_vers_le_fichier.pdf),
-    [DOC](lien_vers_le_fichier.doc),
-    [DOCX](lien_vers_le_fichier.docx),
-    [PPT](lien_vers_le_fichier.pptx).
-    [PPTX](lien_vers_le_fichier.pptx).
-  - Les bois feuillus :
-    [PDF](lien_vers_le_fichier.pdf),
-    [DOC](lien_vers_le_fichier.doc),
-    [DOCX](lien_vers_le_fichier.docx),
-    [PPT](lien_vers_le_fichier.pptx).
-    [PPTX](lien_vers_le_fichier.pptx).
-  - Les bois exotiques :
+  - La forêt mondiale <br>
     [PDF](lien_vers_le_fichier.pdf),
     [DOC](lien_vers_le_fichier.doc),
     [DOCX](lien_vers_le_fichier.docx),
     [PPT](lien_vers_le_fichier.pptx).
     [PPTX](lien_vers_le_fichier.pptx).
 
-- L'anatomie du bois :
+- Les débits de bois <br>
   [PDF](lien_vers_le_fichier.pdf),
   [DOC](lien_vers_le_fichier.doc),
   [DOCX](lien_vers_le_fichier.docx),
   [PPT](lien_vers_le_fichier.pptx).
   [PPTX](lien_vers_le_fichier.pptx).
-- La rétractabilité :
-  [PDF](lien_vers_le_fichier.pdf),
-  [DOC](lien_vers_le_fichier.doc),
-  [DOCX](lien_vers_le_fichier.docx),
-  [PPT](lien_vers_le_fichier.pptx).
-  [PPTX](lien_vers_le_fichier.pptx).
-- Le sechage :
-  - Le séchage naturel :
-    [PDF](lien_vers_le_fichier.pdf),
-    [DOC](lien_vers_le_fichier.doc),
-    [DOCX](lien_vers_le_fichier.docx),
-    [PPT](lien_vers_le_fichier.pptx).
-    [PPTX](lien_vers_le_fichier.pptx).
-  - Le séchage artificiel :
-    [PDF](lien_vers_le_fichier.pdf),
-    [DOC](lien_vers_le_fichier.doc),
-    [DOCX](lien_vers_le_fichier.docx),
-    [PPT](lien_vers_le_fichier.pptx).
-    [PPTX](lien_vers_le_fichier.pptx).
-- Les défauts du bois :
+- Les essences de bois <br>
 
-  - Les insectes :
+  - Les bois résineux <br>
     [PDF](lien_vers_le_fichier.pdf),
     [DOC](lien_vers_le_fichier.doc),
     [DOCX](lien_vers_le_fichier.docx),
     [PPT](lien_vers_le_fichier.pptx).
     [PPTX](lien_vers_le_fichier.pptx).
-  - Les champignons :
+  - Les bois feuillus <br>
     [PDF](lien_vers_le_fichier.pdf),
     [DOC](lien_vers_le_fichier.doc),
     [DOCX](lien_vers_le_fichier.docx),
     [PPT](lien_vers_le_fichier.pptx).
     [PPTX](lien_vers_le_fichier.pptx).
-  - Les moisissures :
-    [PDF](lien_vers_le_fichier.pdf),
-    [DOC](lien_vers_le_fichier.doc),
-    [DOCX](lien_vers_le_fichier.docx),
-    [PPT](lien_vers_le_fichier.pptx).
-    [PPTX](lien_vers_le_fichier.pptx).
-  - Les causes externes :
+  - Les bois exotiques <br>
     [PDF](lien_vers_le_fichier.pdf),
     [DOC](lien_vers_le_fichier.doc),
     [DOCX](lien_vers_le_fichier.docx),
     [PPT](lien_vers_le_fichier.pptx).
     [PPTX](lien_vers_le_fichier.pptx).
 
-- Les propriétés méchaniques du bois :
+- L'anatomie du bois <br>
   [PDF](lien_vers_le_fichier.pdf),
   [DOC](lien_vers_le_fichier.doc),
   [DOCX](lien_vers_le_fichier.docx),
   [PPT](lien_vers_le_fichier.pptx).
   [PPTX](lien_vers_le_fichier.pptx).
-- Les propriétés chimiques du bois :
+- La rétractabilité <br>
   [PDF](lien_vers_le_fichier.pdf),
   [DOC](lien_vers_le_fichier.doc),
   [DOCX](lien_vers_le_fichier.docx),
   [PPT](lien_vers_le_fichier.pptx).
   [PPTX](lien_vers_le_fichier.pptx).
-- Les panneaux dérivés du bois :
+- Le sechage <br>
+  - Le séchage naturel <br>
+    [PDF](lien_vers_le_fichier.pdf),
+    [DOC](lien_vers_le_fichier.doc),
+    [DOCX](lien_vers_le_fichier.docx),
+    [PPT](lien_vers_le_fichier.pptx).
+    [PPTX](lien_vers_le_fichier.pptx).
+  - Le séchage artificiel <br>
+    [PDF](lien_vers_le_fichier.pdf),
+    [DOC](lien_vers_le_fichier.doc),
+    [DOCX](lien_vers_le_fichier.docx),
+    [PPT](lien_vers_le_fichier.pptx).
+    [PPTX](lien_vers_le_fichier.pptx).
+- Les défauts du bois <br>
 
-  - L'OSB :
+  - Les insectes <br>
     [PDF](lien_vers_le_fichier.pdf),
     [DOC](lien_vers_le_fichier.doc),
     [DOCX](lien_vers_le_fichier.docx),
     [PPT](lien_vers_le_fichier.pptx).
     [PPTX](lien_vers_le_fichier.pptx).
-  - Le MDF :
+  - Les champignons <br>
     [PDF](lien_vers_le_fichier.pdf),
     [DOC](lien_vers_le_fichier.doc),
     [DOCX](lien_vers_le_fichier.docx),
     [PPT](lien_vers_le_fichier.pptx).
     [PPTX](lien_vers_le_fichier.pptx).
-  - Le CP :
+  - Les moisissures <br>
     [PDF](lien_vers_le_fichier.pdf),
     [DOC](lien_vers_le_fichier.doc),
     [DOCX](lien_vers_le_fichier.docx),
     [PPT](lien_vers_le_fichier.pptx).
     [PPTX](lien_vers_le_fichier.pptx).
-  - L'alvéolaire :
-    [PDF](lien_vers_le_fichier.pdf),
-    [DOC](lien_vers_le_fichier.doc),
-    [DOCX](lien_vers_le_fichier.docx),
-    [PPT](lien_vers_le_fichier.pptx).
-    [PPTX](lien_vers_le_fichier.pptx).
-  - l'aggloméré :
+  - Les causes externes <br>
     [PDF](lien_vers_le_fichier.pdf),
     [DOC](lien_vers_le_fichier.doc),
     [DOCX](lien_vers_le_fichier.docx),
     [PPT](lien_vers_le_fichier.pptx).
     [PPTX](lien_vers_le_fichier.pptx).
 
-- Les pointes :
+- Les propriétés méchaniques du bois <br>
   [PDF](lien_vers_le_fichier.pdf),
   [DOC](lien_vers_le_fichier.doc),
   [DOCX](lien_vers_le_fichier.docx),
   [PPT](lien_vers_le_fichier.pptx).
   [PPTX](lien_vers_le_fichier.pptx).
-- Le vissage :
+- Les propriétés chimiques du bois <br>
   [PDF](lien_vers_le_fichier.pdf),
   [DOC](lien_vers_le_fichier.doc),
   [DOCX](lien_vers_le_fichier.docx),
   [PPT](lien_vers_le_fichier.pptx).
   [PPTX](lien_vers_le_fichier.pptx).
-- Les coullisses :
+- Les panneaux dérivés du bois <br>
+
+  - L'OSB <br>
+    [PDF](lien_vers_le_fichier.pdf),
+    [DOC](lien_vers_le_fichier.doc),
+    [DOCX](lien_vers_le_fichier.docx),
+    [PPT](lien_vers_le_fichier.pptx).
+    [PPTX](lien_vers_le_fichier.pptx).
+  - Le MDF <br>
+    [PDF](lien_vers_le_fichier.pdf),
+    [DOC](lien_vers_le_fichier.doc),
+    [DOCX](lien_vers_le_fichier.docx),
+    [PPT](lien_vers_le_fichier.pptx).
+    [PPTX](lien_vers_le_fichier.pptx).
+  - Le CP <br>
+    [PDF](lien_vers_le_fichier.pdf),
+    [DOC](lien_vers_le_fichier.doc),
+    [DOCX](lien_vers_le_fichier.docx),
+    [PPT](lien_vers_le_fichier.pptx).
+    [PPTX](lien_vers_le_fichier.pptx).
+  - L'alvéolaire <br>
+    [PDF](lien_vers_le_fichier.pdf),
+    [DOC](lien_vers_le_fichier.doc),
+    [DOCX](lien_vers_le_fichier.docx),
+    [PPT](lien_vers_le_fichier.pptx).
+    [PPTX](lien_vers_le_fichier.pptx).
+  - l'aggloméré <br>
+    [PDF](lien_vers_le_fichier.pdf),
+    [DOC](lien_vers_le_fichier.doc),
+    [DOCX](lien_vers_le_fichier.docx),
+    [PPT](lien_vers_le_fichier.pptx).
+    [PPTX](lien_vers_le_fichier.pptx).
+
+- Les pointes <br>
   [PDF](lien_vers_le_fichier.pdf),
   [DOC](lien_vers_le_fichier.doc),
   [DOCX](lien_vers_le_fichier.docx),
   [PPT](lien_vers_le_fichier.pptx).
   [PPTX](lien_vers_le_fichier.pptx).
-- La quincaillerie :
-  - Les paumelles :
+- Le vissage <br>
+  [PDF](lien_vers_le_fichier.pdf),
+  [DOC](lien_vers_le_fichier.doc),
+  [DOCX](lien_vers_le_fichier.docx),
+  [PPT](lien_vers_le_fichier.pptx).
+  [PPTX](lien_vers_le_fichier.pptx).
+- Les coullisses <br>
+  [PDF](lien_vers_le_fichier.pdf),
+  [DOC](lien_vers_le_fichier.doc),
+  [DOCX](lien_vers_le_fichier.docx),
+  [PPT](lien_vers_le_fichier.pptx).
+  [PPTX](lien_vers_le_fichier.pptx).
+- La quincaillerie <br>
+  - Les paumelles <br>
     [PDF](lien_vers_le_fichier.pdf),
     [DOC](lien_vers_le_fichier.doc),
     [DOCX](lien_vers_le_fichier.docx),
     [PPT](lien_vers_le_fichier.pptx).
     [PPTX](lien_vers_le_fichier.pptx).
-  - Les charnières :
+  - Les charnières <br>
     [PDF](lien_vers_le_fichier.pdf),
     [DOC](lien_vers_le_fichier.doc),
     [DOCX](lien_vers_le_fichier.docx),
     [PPT](lien_vers_le_fichier.pptx).
     [PPTX](lien_vers_le_fichier.pptx).
-  - Les fiches :
+  - Les fiches <br>
     [PDF](lien_vers_le_fichier.pdf),
     [DOC](lien_vers_le_fichier.doc),
     [DOCX](lien_vers_le_fichier.docx),
     [PPT](lien_vers_le_fichier.pptx).
     [PPTX](lien_vers_le_fichier.pptx).
-  - Le ferrage :
+  - Le ferrage <br>
     [PDF](lien_vers_le_fichier.pdf),
     [DOC](lien_vers_le_fichier.doc),
     [DOCX](lien_vers_le_fichier.docx),
     [PPT](lien_vers_le_fichier.pptx).
     [PPTX](lien_vers_le_fichier.pptx).
-- Les fixations :
+- Les fixations <br>
   [PDF](lien_vers_le_fichier.pdf),
   [DOC](lien_vers_le_fichier.doc),
   [DOCX](lien_vers_le_fichier.docx),
@@ -258,182 +258,182 @@ Index des cours :
 
 ## Les outils et les machines
 
-- L'outillage à main :
-  - Le racloir :
+- L'outillage à main <br>
+  - Le racloir <br>
     [PDF](lien_vers_le_fichier.pdf),
     [DOC](lien_vers_le_fichier.doc),
     [DOCX](lien_vers_le_fichier.docx),
     [PPT](lien_vers_le_fichier.pptx).
     [PPTX](lien_vers_le_fichier.pptx).
-  - Le ciseau à bois :
+  - Le ciseau à bois <br>
     [PDF](lien_vers_le_fichier.pdf),
     [DOC](lien_vers_le_fichier.doc),
     [DOCX](lien_vers_le_fichier.docx),
     [PPT](lien_vers_le_fichier.pptx).
     [PPTX](lien_vers_le_fichier.pptx).
-  - Les outils de traçage :
+  - Les outils de traçage <br>
     [PDF](lien_vers_le_fichier.pdf),
     [DOC](lien_vers_le_fichier.doc),
     [DOCX](lien_vers_le_fichier.docx),
     [PPT](lien_vers_le_fichier.pptx).
     [PPTX](lien_vers_le_fichier.pptx).
-  - Les outils de mesure :
+  - Les outils de mesure <br>
     [PDF](lien_vers_le_fichier.pdf),
     [DOC](lien_vers_le_fichier.doc),
     [DOCX](lien_vers_le_fichier.docx),
     [PPT](lien_vers_le_fichier.pptx).
     [PPTX](lien_vers_le_fichier.pptx).
-  - Les scies à main :
+  - Les scies à main <br>
     [PDF](lien_vers_le_fichier.pdf),
     [DOC](lien_vers_le_fichier.doc),
     [DOCX](lien_vers_le_fichier.docx),
     [PPT](lien_vers_le_fichier.pptx).
     [PPTX](lien_vers_le_fichier.pptx).
-  - Les rabots :
+  - Les rabots <br>
     [PDF](lien_vers_le_fichier.pdf),
     [DOC](lien_vers_le_fichier.doc),
     [DOCX](lien_vers_le_fichier.docx),
     [PPT](lien_vers_le_fichier.pptx).
     [PPTX](lien_vers_le_fichier.pptx).
-- L'éléctroportatif :
+- L'éléctroportatif <br>
 
-  - La perceuse :
+  - La perceuse <br>
     [PDF](lien_vers_le_fichier.pdf),
     [DOC](lien_vers_le_fichier.doc),
     [DOCX](lien_vers_le_fichier.docx),
     [PPT](lien_vers_le_fichier.pptx).
     [PPTX](lien_vers_le_fichier.pptx).
-  - La visseuse :
+  - La visseuse <br>
     [PDF](lien_vers_le_fichier.pdf),
     [DOC](lien_vers_le_fichier.doc),
     [DOCX](lien_vers_le_fichier.docx),
     [PPT](lien_vers_le_fichier.pptx).
     [PPTX](lien_vers_le_fichier.pptx).
-  - La ponceuse :
+  - La ponceuse <br>
     [PDF](lien_vers_le_fichier.pdf),
     [DOC](lien_vers_le_fichier.doc),
     [DOCX](lien_vers_le_fichier.docx),
     [PPT](lien_vers_le_fichier.pptx).
     [PPTX](lien_vers_le_fichier.pptx).
-  - La défonceuse :
+  - La défonceuse <br>
     [PDF](lien_vers_le_fichier.pdf),
     [DOC](lien_vers_le_fichier.doc),
     [DOCX](lien_vers_le_fichier.docx),
     [PPT](lien_vers_le_fichier.pptx).
     [PPTX](lien_vers_le_fichier.pptx).
-  - La scie sauteuse :
+  - La scie sauteuse <br>
     [PDF](lien_vers_le_fichier.pdf),
     [DOC](lien_vers_le_fichier.doc),
     [DOCX](lien_vers_le_fichier.docx),
     [PPT](lien_vers_le_fichier.pptx).
     [PPTX](lien_vers_le_fichier.pptx).
-  - Le rabot éléctrique :
-    [PDF](lien_vers_le_fichier.pdf),
-    [DOC](lien_vers_le_fichier.doc),
-    [DOCX](lien_vers_le_fichier.docx),
-    [PPT](lien_vers_le_fichier.pptx).
-    [PPTX](lien_vers_le_fichier.pptx).
-
-- Les machines stationnaires :
-
-  - La scie radiale :
-    [PDF](lien_vers_le_fichier.pdf),
-    [DOC](lien_vers_le_fichier.doc),
-    [DOCX](lien_vers_le_fichier.docx),
-    [PPT](lien_vers_le_fichier.pptx).
-    [PPTX](lien_vers_le_fichier.pptx).
-  - La scie à format :
-    [PDF](lien_vers_le_fichier.pdf),
-    [DOC](lien_vers_le_fichier.doc),
-    [DOCX](lien_vers_le_fichier.docx),
-    [PPT](lien_vers_le_fichier.pptx).
-    [PPTX](lien_vers_le_fichier.pptx).
-  - les lames de scies circulaire :
-    [PDF](lien_vers_le_fichier.pdf),
-    [DOC](lien_vers_le_fichier.doc),
-    [DOCX](lien_vers_le_fichier.docx),
-    [PPT](lien_vers_le_fichier.pptx).
-    [PPTX](lien_vers_le_fichier.pptx).
-  - La scie à ruban :
-    [PDF](lien_vers_le_fichier.pdf),
-    [DOC](lien_vers_le_fichier.doc),
-    [DOCX](lien_vers_le_fichier.docx),
-    [PPT](lien_vers_le_fichier.pptx).
-    [PPTX](lien_vers_le_fichier.pptx).
-  - La scie à panneaux :
-    [PDF](lien_vers_le_fichier.pdf),
-    [DOC](lien_vers_le_fichier.doc),
-    [DOCX](lien_vers_le_fichier.docx),
-    [PPT](lien_vers_le_fichier.pptx).
-    [PPTX](lien_vers_le_fichier.pptx).
-  - La dégauchisseuse :
-    [PDF](lien_vers_le_fichier.pdf),
-    [DOC](lien_vers_le_fichier.doc),
-    [DOCX](lien_vers_le_fichier.docx),
-    [PPT](lien_vers_le_fichier.pptx).
-    [PPTX](lien_vers_le_fichier.pptx).
-  - La raboteuse :
-    [PDF](lien_vers_le_fichier.pdf),
-    [DOC](lien_vers_le_fichier.doc),
-    [DOCX](lien_vers_le_fichier.docx),
-    [PPT](lien_vers_le_fichier.pptx).
-    [PPTX](lien_vers_le_fichier.pptx).
-  - La corroyeuse 4 faces :
-    [PDF](lien_vers_le_fichier.pdf),
-    [DOC](lien_vers_le_fichier.doc),
-    [DOCX](lien_vers_le_fichier.docx),
-    [PPT](lien_vers_le_fichier.pptx).
-    [PPTX](lien_vers_le_fichier.pptx).
-  - La mortaiseuse :
-    [PDF](lien_vers_le_fichier.pdf),
-    [DOC](lien_vers_le_fichier.doc),
-    [DOCX](lien_vers_le_fichier.docx),
-    [PPT](lien_vers_le_fichier.pptx).
-    [PPTX](lien_vers_le_fichier.pptx).
-  - La tenoneuse :
-    [PDF](lien_vers_le_fichier.pdf),
-    [DOC](lien_vers_le_fichier.doc),
-    [DOCX](lien_vers_le_fichier.docx),
-    [PPT](lien_vers_le_fichier.pptx).
-    [PPTX](lien_vers_le_fichier.pptx).
-  - La toupie :
-    [PDF](lien_vers_le_fichier.pdf),
-    [DOC](lien_vers_le_fichier.doc),
-    [DOCX](lien_vers_le_fichier.docx),
-    [PPT](lien_vers_le_fichier.pptx).
-    [PPTX](lien_vers_le_fichier.pptx).
-  - La perceuse à colonne :
-    [PDF](lien_vers_le_fichier.pdf),
-    [DOC](lien_vers_le_fichier.doc),
-    [DOCX](lien_vers_le_fichier.docx),
-    [PPT](lien_vers_le_fichier.pptx).
-    [PPTX](lien_vers_le_fichier.pptx).
-  - La mortaiseuse :
+  - Le rabot éléctrique <br>
     [PDF](lien_vers_le_fichier.pdf),
     [DOC](lien_vers_le_fichier.doc),
     [DOCX](lien_vers_le_fichier.docx),
     [PPT](lien_vers_le_fichier.pptx).
     [PPTX](lien_vers_le_fichier.pptx).
 
-- Le profilage (les moulures) :
+- Les machines stationnaires <br>
+
+  - La scie radiale <br>
+    [PDF](lien_vers_le_fichier.pdf),
+    [DOC](lien_vers_le_fichier.doc),
+    [DOCX](lien_vers_le_fichier.docx),
+    [PPT](lien_vers_le_fichier.pptx).
+    [PPTX](lien_vers_le_fichier.pptx).
+  - La scie à format <br>
+    [PDF](lien_vers_le_fichier.pdf),
+    [DOC](lien_vers_le_fichier.doc),
+    [DOCX](lien_vers_le_fichier.docx),
+    [PPT](lien_vers_le_fichier.pptx).
+    [PPTX](lien_vers_le_fichier.pptx).
+  - les lames de scies circulaire <br>
+    [PDF](lien_vers_le_fichier.pdf),
+    [DOC](lien_vers_le_fichier.doc),
+    [DOCX](lien_vers_le_fichier.docx),
+    [PPT](lien_vers_le_fichier.pptx).
+    [PPTX](lien_vers_le_fichier.pptx).
+  - La scie à ruban <br>
+    [PDF](lien_vers_le_fichier.pdf),
+    [DOC](lien_vers_le_fichier.doc),
+    [DOCX](lien_vers_le_fichier.docx),
+    [PPT](lien_vers_le_fichier.pptx).
+    [PPTX](lien_vers_le_fichier.pptx).
+  - La scie à panneaux <br>
+    [PDF](lien_vers_le_fichier.pdf),
+    [DOC](lien_vers_le_fichier.doc),
+    [DOCX](lien_vers_le_fichier.docx),
+    [PPT](lien_vers_le_fichier.pptx).
+    [PPTX](lien_vers_le_fichier.pptx).
+  - La dégauchisseuse <br>
+    [PDF](lien_vers_le_fichier.pdf),
+    [DOC](lien_vers_le_fichier.doc),
+    [DOCX](lien_vers_le_fichier.docx),
+    [PPT](lien_vers_le_fichier.pptx).
+    [PPTX](lien_vers_le_fichier.pptx).
+  - La raboteuse <br>
+    [PDF](lien_vers_le_fichier.pdf),
+    [DOC](lien_vers_le_fichier.doc),
+    [DOCX](lien_vers_le_fichier.docx),
+    [PPT](lien_vers_le_fichier.pptx).
+    [PPTX](lien_vers_le_fichier.pptx).
+  - La corroyeuse 4 faces <br>
+    [PDF](lien_vers_le_fichier.pdf),
+    [DOC](lien_vers_le_fichier.doc),
+    [DOCX](lien_vers_le_fichier.docx),
+    [PPT](lien_vers_le_fichier.pptx).
+    [PPTX](lien_vers_le_fichier.pptx).
+  - La mortaiseuse <br>
+    [PDF](lien_vers_le_fichier.pdf),
+    [DOC](lien_vers_le_fichier.doc),
+    [DOCX](lien_vers_le_fichier.docx),
+    [PPT](lien_vers_le_fichier.pptx).
+    [PPTX](lien_vers_le_fichier.pptx).
+  - La tenoneuse <br>
+    [PDF](lien_vers_le_fichier.pdf),
+    [DOC](lien_vers_le_fichier.doc),
+    [DOCX](lien_vers_le_fichier.docx),
+    [PPT](lien_vers_le_fichier.pptx).
+    [PPTX](lien_vers_le_fichier.pptx).
+  - La toupie <br>
+    [PDF](lien_vers_le_fichier.pdf),
+    [DOC](lien_vers_le_fichier.doc),
+    [DOCX](lien_vers_le_fichier.docx),
+    [PPT](lien_vers_le_fichier.pptx).
+    [PPTX](lien_vers_le_fichier.pptx).
+  - La perceuse à colonne <br>
+    [PDF](lien_vers_le_fichier.pdf),
+    [DOC](lien_vers_le_fichier.doc),
+    [DOCX](lien_vers_le_fichier.docx),
+    [PPT](lien_vers_le_fichier.pptx).
+    [PPTX](lien_vers_le_fichier.pptx).
+  - La mortaiseuse <br>
+    [PDF](lien_vers_le_fichier.pdf),
+    [DOC](lien_vers_le_fichier.doc),
+    [DOCX](lien_vers_le_fichier.docx),
+    [PPT](lien_vers_le_fichier.pptx).
+    [PPTX](lien_vers_le_fichier.pptx).
+
+- Le profilage (les moulures) <br>
   [PDF](lien_vers_le_fichier.pdf),
   [DOC](lien_vers_le_fichier.doc),
   [DOCX](lien_vers_le_fichier.docx),
   [PPT](lien_vers_le_fichier.pptx).
   [PPTX](lien_vers_le_fichier.pptx).
-- La toupie :
+- La toupie <br>
   [PDF](lien_vers_le_fichier.pdf),
   [DOC](lien_vers_le_fichier.doc),
   [DOCX](lien_vers_le_fichier.docx),
   [PPT](lien_vers_le_fichier.pptx).
   [PPTX](lien_vers_le_fichier.pptx).
-- La calibreuse :
+- La calibreuse <br>
   [PDF](lien_vers_le_fichier.pdf),
   [DOC](lien_vers_le_fichier.doc),
   [DOCX](lien_vers_le_fichier.docx),
   [PPT](lien_vers_le_fichier.pptx).
   [PPTX](lien_vers_le_fichier.pptx).
-- Le centre d'usinage numérique :
+- Le centre d'usinage numérique <br>
   [PDF](lien_vers_le_fichier.pdf),
   [DOC](lien_vers_le_fichier.doc),
   [DOCX](lien_vers_le_fichier.docx),
@@ -442,81 +442,81 @@ Index des cours :
 
 ## Techniques et méthodes de travail
 
-- Les signes d'établissement :
+- Les signes d'établissement <br>
   [PDF](lien_vers_le_fichier.pdf),
   [DOC](lien_vers_le_fichier.doc),
   [DOCX](lien_vers_le_fichier.docx),
   [PPT](lien_vers_le_fichier.pptx).
   [PPTX](lien_vers_le_fichier.pptx).
-- L'affutage :
+- L'affutage <br>
 
-  - L'affutage des ciseaux :
+  - L'affutage des ciseaux <br>
     [PDF](lien_vers_le_fichier.pdf),
     [DOC](lien_vers_le_fichier.doc),
     [DOCX](lien_vers_le_fichier.docx),
     [PPT](lien_vers_le_fichier.pptx).
     [PPTX](lien_vers_le_fichier.pptx).
-  - L'affutage du racloir :
+  - L'affutage du racloir <br>
     [PDF](lien_vers_le_fichier.pdf),
     [DOC](lien_vers_le_fichier.doc),
     [DOCX](lien_vers_le_fichier.docx),
     [PPT](lien_vers_le_fichier.pptx).
     [PPTX](lien_vers_le_fichier.pptx).
-  - L'affutage des scies :
+  - L'affutage des scies <br>
     [PDF](lien_vers_le_fichier.pdf),
     [DOC](lien_vers_le_fichier.doc),
     [DOCX](lien_vers_le_fichier.docx),
     [PPT](lien_vers_le_fichier.pptx).
     [PPTX](lien_vers_le_fichier.pptx).
-  - Les machines d'affutage :
+  - Les machines d'affutage <br>
     [PDF](lien_vers_le_fichier.pdf),
     [DOC](lien_vers_le_fichier.doc),
     [DOCX](lien_vers_le_fichier.docx),
     [PPT](lien_vers_le_fichier.pptx).
     [PPTX](lien_vers_le_fichier.pptx).
 
-- La fiche de débit :
+- La fiche de débit <br>
   [PDF](lien_vers_le_fichier.pdf),
   [DOC](lien_vers_le_fichier.doc),
   [DOCX](lien_vers_le_fichier.docx),
   [PPT](lien_vers_le_fichier.pptx).
   [PPTX](lien_vers_le_fichier.pptx).
-- Les assemblages :
+- Les assemblages <br>
 
-  - Lamello et domino :
+  - Lamello et domino <br>
     [PDF](lien_vers_le_fichier.pdf),
     [DOC](lien_vers_le_fichier.doc),
     [DOCX](lien_vers_le_fichier.docx),
     [PPT](lien_vers_le_fichier.pptx).
     [PPTX](lien_vers_le_fichier.pptx).
-  - Les tenons et mortaises :
+  - Les tenons et mortaises <br>
     [PDF](lien_vers_le_fichier.pdf),
     [DOC](lien_vers_le_fichier.doc),
     [DOCX](lien_vers_le_fichier.docx),
     [PPT](lien_vers_le_fichier.pptx).
     [PPTX](lien_vers_le_fichier.pptx).
-  - Les rainures et languettes :
+  - Les rainures et languettes <br>
     [PDF](lien_vers_le_fichier.pdf),
     [DOC](lien_vers_le_fichier.doc),
     [DOCX](lien_vers_le_fichier.docx),
     [PPT](lien_vers_le_fichier.pptx).
     [PPTX](lien_vers_le_fichier.pptx).
-  - Les tourillons :
+  - Les tourillons <br>
     [PDF](lien_vers_le_fichier.pdf),
     [DOC](lien_vers_le_fichier.doc),
     [DOCX](lien_vers_le_fichier.docx),
     [PPT](lien_vers_le_fichier.pptx).
     [PPTX](lien_vers_le_fichier.pptx).
 
-- Le collage :
+- Le collage
 
-  - Les types de colles :
+  - Les types de colles <br>
     [PDF](lien_vers_le_fichier.pdf),
     [DOC](lien_vers_le_fichier.doc),
     [DOCX](lien_vers_le_fichier.docx),
     [PPT](lien_vers_le_fichier.pptx).
     [PPTX](lien_vers_le_fichier.pptx).
-  - Les étapes du collage :
+  - Les étapes du collage <br>
     [PDF](lien_vers_le_fichier.pdf),
     [DOC](lien_vers_le_fichier.doc),
     [DOCX](lien_vers_le_fichier.docx),
@@ -524,187 +524,189 @@ Index des cours :
     [PPTX](lien_vers_le_fichier.pptx).
 
 - Le serrage
-  - Les outils de serrage :
+
+  - Les outils de serrage <br>
     [PDF](lien_vers_le_fichier.pdf),
     [DOC](lien_vers_le_fichier.doc),
     [DOCX](lien_vers_le_fichier.docx),
     [PPT](lien_vers_le_fichier.pptx).
     [PPTX](lien_vers_le_fichier.pptx).
-  - Les techniques de serrage :
+  - Les techniques de serrage <br>
     [PDF](lien_vers_le_fichier.pdf),
     [DOC](lien_vers_le_fichier.doc),
     [DOCX](lien_vers_le_fichier.docx),
     [PPT](lien_vers_le_fichier.pptx).
     [PPTX](lien_vers_le_fichier.pptx).
-- La finition :
+
+- La finition <br>
   [PDF](lien_vers_le_fichier.pdf),
   [DOC](lien_vers_le_fichier.doc),
   [DOCX](lien_vers_le_fichier.docx),
   [PPT](lien_vers_le_fichier.pptx).
   [PPTX](lien_vers_le_fichier.pptx).
-- L'épure :
+- L'épure <br>
   [PDF](lien_vers_le_fichier.pdf),
   [DOC](lien_vers_le_fichier.doc),
   [DOCX](lien_vers_le_fichier.docx),
   [PPT](lien_vers_le_fichier.pptx).
   [PPTX](lien_vers_le_fichier.pptx).
-- Le montage d'usinage :
+- Le montage d'usinage <br>
   [PDF](lien_vers_le_fichier.pdf),
   [DOC](lien_vers_le_fichier.doc),
   [DOCX](lien_vers_le_fichier.docx),
   [PPT](lien_vers_le_fichier.pptx).
   [PPTX](lien_vers_le_fichier.pptx).
-- Le chevillage :
+- Le chevillage <br>
   [PDF](lien_vers_le_fichier.pdf),
   [DOC](lien_vers_le_fichier.doc),
   [DOCX](lien_vers_le_fichier.docx),
   [PPT](lien_vers_le_fichier.pptx).
   [PPTX](lien_vers_le_fichier.pptx).
-- Le système 32 :
+- Le système 32 <br>
   [PDF](lien_vers_le_fichier.pdf),
   [DOC](lien_vers_le_fichier.doc),
   [DOCX](lien_vers_le_fichier.docx),
   [PPT](lien_vers_le_fichier.pptx).
   [PPTX](lien_vers_le_fichier.pptx).
-- Le calpinage :
+- Le calpinage <br>
   [PDF](lien_vers_le_fichier.pdf),
   [DOC](lien_vers_le_fichier.doc),
   [DOCX](lien_vers_le_fichier.docx),
   [PPT](lien_vers_le_fichier.pptx).
   [PPTX](lien_vers_le_fichier.pptx).
-- La maintenance :
+- La maintenance <br>
   [PDF](lien_vers_le_fichier.pdf),
   [DOC](lien_vers_le_fichier.doc),
   [DOCX](lien_vers_le_fichier.docx),
   [PPT](lien_vers_le_fichier.pptx).
   [PPTX](lien_vers_le_fichier.pptx).
-- Analogie des machines outils :
+- Analogie des machines outils <br>
   [PDF](lien_vers_le_fichier.pdf),
   [DOC](lien_vers_le_fichier.doc),
   [DOCX](lien_vers_le_fichier.docx),
   [PPT](lien_vers_le_fichier.pptx).
   [PPTX](lien_vers_le_fichier.pptx).
-- Les symboles conventionnels des machines :
+- Les symboles conventionnels des machines <br>
   [PDF](lien_vers_le_fichier.pdf),
   [DOC](lien_vers_le_fichier.doc),
   [DOCX](lien_vers_le_fichier.docx),
   [PPT](lien_vers_le_fichier.pptx).
   [PPTX](lien_vers_le_fichier.pptx).
-- L'isostatismes :
+- L'isostatismes <br>
   [PDF](lien_vers_le_fichier.pdf),
   [DOC](lien_vers_le_fichier.doc),
   [DOCX](lien_vers_le_fichier.docx),
   [PPT](lien_vers_le_fichier.pptx).
   [PPTX](lien_vers_le_fichier.pptx).
-- Le dossier méthodes :
+- Le dossier méthodes <br>
   [PDF](lien_vers_le_fichier.pdf),
   [DOC](lien_vers_le_fichier.doc),
   [DOCX](lien_vers_le_fichier.docx),
   [PPT](lien_vers_le_fichier.pptx).
   [PPTX](lien_vers_le_fichier.pptx).
-- Le planning de phase :
+- Le planning de phase <br>
   [PDF](lien_vers_le_fichier.pdf),
   [DOC](lien_vers_le_fichier.doc),
   [DOCX](lien_vers_le_fichier.docx),
   [PPT](lien_vers_le_fichier.pptx).
   [PPTX](lien_vers_le_fichier.pptx).
-- Les gammes d'usinage :
+- Les gammes d'usinage <br>
   [PDF](lien_vers_le_fichier.pdf),
   [DOC](lien_vers_le_fichier.doc),
   [DOCX](lien_vers_le_fichier.docx),
   [PPT](lien_vers_le_fichier.pptx).
   [PPTX](lien_vers_le_fichier.pptx).
-- La cinématique de coupe :
+- La cinématique de coupe <br>
   [PDF](lien_vers_le_fichier.pdf),
   [DOC](lien_vers_le_fichier.doc),
   [DOCX](lien_vers_le_fichier.docx),
   [PPT](lien_vers_le_fichier.pptx).
   [PPTX](lien_vers_le_fichier.pptx).
-- Matrice des antériorités :
+- Matrice des antériorités <br>
   [PDF](lien_vers_le_fichier.pdf),
   [DOC](lien_vers_le_fichier.doc),
   [DOCX](lien_vers_le_fichier.docx),
   [PPT](lien_vers_le_fichier.pptx).
   [PPTX](lien_vers_le_fichier.pptx).
-- Le bon de commande :
+- Le bon de commande <br>
   [PDF](lien_vers_le_fichier.pdf),
   [DOC](lien_vers_le_fichier.doc),
   [DOCX](lien_vers_le_fichier.docx),
   [PPT](lien_vers_le_fichier.pptx).
   [PPTX](lien_vers_le_fichier.pptx).
-- Diagramme de Pert :
+- Diagramme de Pert <br>
   [PDF](lien_vers_le_fichier.pdf),
   [DOC](lien_vers_le_fichier.doc),
   [DOCX](lien_vers_le_fichier.docx),
   [PPT](lien_vers_le_fichier.pptx).
   [PPTX](lien_vers_le_fichier.pptx).
-- Diagramme de Gant :
+- Diagramme de Gant <br>
   [PDF](lien_vers_le_fichier.pdf),
   [DOC](lien_vers_le_fichier.doc),
   [DOCX](lien_vers_le_fichier.docx),
   [PPT](lien_vers_le_fichier.pptx).
   [PPTX](lien_vers_le_fichier.pptx).
-- L'isolation thermique :
+- L'isolation thermique <br>
   [PDF](lien_vers_le_fichier.pdf),
   [DOC](lien_vers_le_fichier.doc),
   [DOCX](lien_vers_le_fichier.docx),
   [PPT](lien_vers_le_fichier.pptx).
   [PPTX](lien_vers_le_fichier.pptx).
-- L'isolation acoustique :
+- L'isolation acoustique <br>
   [PDF](lien_vers_le_fichier.pdf),
   [DOC](lien_vers_le_fichier.doc),
   [DOCX](lien_vers_le_fichier.docx),
   [PPT](lien_vers_le_fichier.pptx).
   [PPTX](lien_vers_le_fichier.pptx).
-- Géométrie descriptive :
+- Géométrie descriptive <br>
   [PDF](lien_vers_le_fichier.pdf),
   [DOC](lien_vers_le_fichier.doc),
   [DOCX](lien_vers_le_fichier.docx),
   [PPT](lien_vers_le_fichier.pptx).
   [PPTX](lien_vers_le_fichier.pptx).
-- Resistance des matériaux :
+- Resistance des matériaux <br>
   [PDF](lien_vers_le_fichier.pdf),
   [DOC](lien_vers_le_fichier.doc),
   [DOCX](lien_vers_le_fichier.docx),
   [PPT](lien_vers_le_fichier.pptx).
   [PPTX](lien_vers_le_fichier.pptx).
-- Pareto ABC :
+- Pareto ABC <br>
   [PDF](lien_vers_le_fichier.pdf),
   [DOC](lien_vers_le_fichier.doc),
   [DOCX](lien_vers_le_fichier.docx),
   [PPT](lien_vers_le_fichier.pptx).
   [PPTX](lien_vers_le_fichier.pptx).
-- Temps :
+- Temps <br>
   [PDF](lien_vers_le_fichier.pdf),
   [DOC](lien_vers_le_fichier.doc),
   [DOCX](lien_vers_le_fichier.docx),
   [PPT](lien_vers_le_fichier.pptx).
   [PPTX](lien_vers_le_fichier.pptx).
-- Les cotations :
+- Les cotations <br>
   [PDF](lien_vers_le_fichier.pdf),
   [DOC](lien_vers_le_fichier.doc),
   [DOCX](lien_vers_le_fichier.docx),
   [PPT](lien_vers_le_fichier.pptx).
   [PPTX](lien_vers_le_fichier.pptx).
-- Nomenclature par niveau :
+- Nomenclature par niveau <br>
   [PDF](lien_vers_le_fichier.pdf),
   [DOC](lien_vers_le_fichier.doc),
   [DOCX](lien_vers_le_fichier.docx),
   [PPT](lien_vers_le_fichier.pptx).
   [PPTX](lien_vers_le_fichier.pptx).
-- La qualité :
+- La qualité <br>
   [PDF](lien_vers_le_fichier.pdf),
   [DOC](lien_vers_le_fichier.doc),
   [DOCX](lien_vers_le_fichier.docx),
   [PPT](lien_vers_le_fichier.pptx).
   [PPTX](lien_vers_le_fichier.pptx).
-- Le mode opératoire :
+- Le mode opératoire <br>
   [PDF](lien_vers_le_fichier.pdf),
   [DOC](lien_vers_le_fichier.doc),
   [DOCX](lien_vers_le_fichier.docx),
   [PPT](lien_vers_le_fichier.pptx).
   [PPTX](lien_vers_le_fichier.pptx).
-- Le métrage (relevé de mesures) :
+- Le métrage (relevé de mesures) <br>
   [PDF](lien_vers_le_fichier.pdf),
   [DOC](lien_vers_le_fichier.doc),
   [DOCX](lien_vers_le_fichier.docx),
@@ -713,74 +715,74 @@ Index des cours :
 
 ## Les ouvrages de menuiserie
 
-- Les portes intérieures :
+- Les portes intérieures <br>
   [PDF](lien_vers_le_fichier.pdf),
   [DOC](lien_vers_le_fichier.doc),
   [DOCX](lien_vers_le_fichier.docx),
   [PPT](lien_vers_le_fichier.pptx).
   [PPTX](lien_vers_le_fichier.pptx).
-- Les bâtis et les huisseries :
+- Les bâtis et les huisseries <br>
   [PDF](lien_vers_le_fichier.pdf),
   [DOC](lien_vers_le_fichier.doc),
   [DOCX](lien_vers_le_fichier.docx),
   [PPT](lien_vers_le_fichier.pptx).
   [PPTX](lien_vers_le_fichier.pptx).
-- Le parquet :
+- Le parquet <br>
   [PDF](lien_vers_le_fichier.pdf),
   [DOC](lien_vers_le_fichier.doc),
   [DOCX](lien_vers_le_fichier.docx),
   [PPT](lien_vers_le_fichier.pptx).
   [PPTX](lien_vers_le_fichier.pptx).
-- Les fenetres :
+- Les fenetres <br>
   [PDF](lien_vers_le_fichier.pdf),
   [DOC](lien_vers_le_fichier.doc),
   [DOCX](lien_vers_le_fichier.docx),
   [PPT](lien_vers_le_fichier.pptx).
   [PPTX](lien_vers_le_fichier.pptx).
-- Les volets :
+- Les volets <br>
   [PDF](lien_vers_le_fichier.pdf),
   [DOC](lien_vers_le_fichier.doc),
   [DOCX](lien_vers_le_fichier.docx),
   [PPT](lien_vers_le_fichier.pptx).
   [PPTX](lien_vers_le_fichier.pptx).
-- Le lambris :
+- Le lambris <br>
   [PDF](lien_vers_le_fichier.pdf),
   [DOC](lien_vers_le_fichier.doc),
   [DOCX](lien_vers_le_fichier.docx),
   [PPT](lien_vers_le_fichier.pptx).
   [PPTX](lien_vers_le_fichier.pptx).
-- Les gardes corps :
+- Les gardes corps <br>
   [PDF](lien_vers_le_fichier.pdf),
   [DOC](lien_vers_le_fichier.doc),
   [DOCX](lien_vers_le_fichier.docx),
   [PPT](lien_vers_le_fichier.pptx).
   [PPTX](lien_vers_le_fichier.pptx).
 - Les escaliers
-  - Le vocabulaire de l'escalier :
+  - Le vocabulaire de l'escalier <br>
     [PDF](lien_vers_le_fichier.pdf),
     [DOC](lien_vers_le_fichier.doc),
     [DOCX](lien_vers_le_fichier.docx),
     [PPT](lien_vers_le_fichier.pptx).
     [PPTX](lien_vers_le_fichier.pptx).
-  - Les escaliers droits :
+  - Les escaliers droits <br>
     [PDF](lien_vers_le_fichier.pdf),
     [DOC](lien_vers_le_fichier.doc),
     [DOCX](lien_vers_le_fichier.docx),
     [PPT](lien_vers_le_fichier.pptx).
     [PPTX](lien_vers_le_fichier.pptx).
-  - Les escaliers tournants :
+  - Les escaliers tournants <br>
     [PDF](lien_vers_le_fichier.pdf),
     [DOC](lien_vers_le_fichier.doc),
     [DOCX](lien_vers_le_fichier.docx),
     [PPT](lien_vers_le_fichier.pptx).
     [PPTX](lien_vers_le_fichier.pptx).
-- Le bardage :
+- Le bardage <br>
   [PDF](lien_vers_le_fichier.pdf),
   [DOC](lien_vers_le_fichier.doc),
   [DOCX](lien_vers_le_fichier.docx),
   [PPT](lien_vers_le_fichier.pptx).
   [PPTX](lien_vers_le_fichier.pptx).
-- Les faux plafonds :
+- Les faux plafonds <br>
   [PDF](lien_vers_le_fichier.pdf),
   [DOC](lien_vers_le_fichier.doc),
   [DOCX](lien_vers_le_fichier.docx),
@@ -789,62 +791,62 @@ Index des cours :
 
 ## Le dessin technique
 
-- Les échelles :
+- Les échelles <br>
   [PDF](lien_vers_le_fichier.pdf),
   [DOC](lien_vers_le_fichier.doc),
   [DOCX](lien_vers_le_fichier.docx),
   [PPT](lien_vers_le_fichier.pptx).
   [PPTX](lien_vers_le_fichier.pptx).
-- La conversion :
+- La conversion <br>
   [PDF](lien_vers_le_fichier.pdf),
   [DOC](lien_vers_le_fichier.doc),
   [DOCX](lien_vers_le_fichier.docx),
   [PPT](lien_vers_le_fichier.pptx).
   [PPTX](lien_vers_le_fichier.pptx).
-- La perspective eclatée :
+- La perspective eclatée <br>
   [PDF](lien_vers_le_fichier.pdf),
   [DOC](lien_vers_le_fichier.doc),
   [DOCX](lien_vers_le_fichier.docx),
   [PPT](lien_vers_le_fichier.pptx).
   [PPTX](lien_vers_le_fichier.pptx).
-- L'épure :
+- L'épure <br>
   [PDF](lien_vers_le_fichier.pdf),
   [DOC](lien_vers_le_fichier.doc),
   [DOCX](lien_vers_le_fichier.docx),
   [PPT](lien_vers_le_fichier.pptx).
   [PPTX](lien_vers_le_fichier.pptx).
-- Les bases du dessin :
+- Les bases du dessin <br>
   [PDF](lien_vers_le_fichier.pdf),
   [DOC](lien_vers_le_fichier.doc),
   [DOCX](lien_vers_le_fichier.docx),
   [PPT](lien_vers_le_fichier.pptx).
   [PPTX](lien_vers_le_fichier.pptx).
-- Les vues :
+- Les vues <br>
   [PDF](lien_vers_le_fichier.pdf),
   [DOC](lien_vers_le_fichier.doc),
   [DOCX](lien_vers_le_fichier.docx),
   [PPT](lien_vers_le_fichier.pptx).
   [PPTX](lien_vers_le_fichier.pptx).
-- Les coupes :
+- Les coupes <br>
   [PDF](lien_vers_le_fichier.pdf),
   [DOC](lien_vers_le_fichier.doc),
   [DOCX](lien_vers_le_fichier.docx),
   [PPT](lien_vers_le_fichier.pptx).
   [PPTX](lien_vers_le_fichier.pptx).
 - Le logiciel Sketchup
-  - les bases du logiciel :
+  - les bases du logiciel <br>
     [PDF](lien_vers_le_fichier.pdf),
     [DOC](lien_vers_le_fichier.doc),
     [DOCX](lien_vers_le_fichier.docx),
     [PPT](lien_vers_le_fichier.pptx).
     [PPTX](lien_vers_le_fichier.pptx).
-  - L'utilisation des outils avancés :
+  - L'utilisation des outils avancés <br>
     [PDF](lien_vers_le_fichier.pdf),
     [DOC](lien_vers_le_fichier.doc),
     [DOCX](lien_vers_le_fichier.docx),
     [PPT](lien_vers_le_fichier.pptx).
     [PPTX](lien_vers_le_fichier.pptx).
-  - la mise en plan :
+  - la mise en plan <br>
     [PDF](lien_vers_le_fichier.pdf),
     [DOC](lien_vers_le_fichier.doc),
     [DOCX](lien_vers_le_fichier.docx),
@@ -860,60 +862,60 @@ Index des cours :
 - La table basse
 - La table de chevet
 
-## Mes réseaux sociaux :
+## Mes réseaux sociaux <br>
 
 <p align="center">
 
-<a href="https://www.facebook.com/kduchevreuil/" target="_blank">
+<a href="https<br> //www.facebook.com/kduchevreuil/" target="_blank">
 <img 
 class="IMGlink"
 src="./icones RS/facebook.png"
 width= 9%/>
 </a>
 
-<a href="https://github.com/kduchevreuil" target="_blank">
+<a href="https<br> //github.com/kduchevreuil" target="_blank">
 <img 
 class="IMGlink"
 src="./icones RS/github.png"
 width= 9%/>
 </a>
 
-<a href="https://www.linkedin.com/in/kevin-du-chevreuil-b7390529a/" target="_blank">
+<a href="https<br> //www.linkedin.com/in/kevin-du-chevreuil-b7390529a/" target="_blank">
 <img 
 class="IMGlink"
 src="./icones RS/linkedin.png"
 width= 9%/>
 </a>
 
-<a href="https://www.instagram.com/kduchevreuil/" target="_blank">
+<a href="https<br> //www.instagram.com/kduchevreuil/" target="_blank">
 <img 
 class="IMGlink"
 src="./icones RS/instagram.png"
 width= 9%/>
 </a>
 
-<a href="https://www.pinterest.fr/kduchevreuil" target="_blank">
+<a href="https<br> //www.pinterest.fr/kduchevreuil" target="_blank">
 <img 
 class="IMGlink"
 src="./icones RS/pinterest.png"
 width= 9%/>
 </a>
 
-<a href="https://www.tiktok.com/@kduchevreuil" target="_blank">
+<a href="https<br> //www.tiktok.com/@kduchevreuil" target="_blank">
 <img 
 class="IMGlink"
 src="./icones RS/tiktok.png"
 width= 9%/>
 </a>
 
-<a href="https://twitter.com/kduchevreuil" target="_blank">
+<a href="https<br> //twitter.com/kduchevreuil" target="_blank">
 <img 
 class="IMGlink"
 src="./icones RS/twitter.png"
 width= 9%/>
 </a>
 
-<a href="https://www.youtube.com/channel/UCbR7KQ-UTx8dznOkuC5TVfQ" target="_blank">
+<a href="https<br> //www.youtube.com/channel/UCbR7KQ-UTx8dznOkuC5TVfQ" target="_blank">
 <img 
 class="IMGlink"
 src="./icones RS/youtube.png"
