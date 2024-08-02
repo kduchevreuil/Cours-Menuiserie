@@ -651,6 +651,11 @@ Ensemble des cours de menuiserie au format DOC, DOCX, PPTC et PDF en acces libre
     [PPS](https://github.com/kduchevreuil/Cours-Menuiserie/blob/main/Cours%20termin%C3%A9s/Les%20escaliers%20tournants.pps),
     [PPT](https://github.com/kduchevreuil/Cours-Menuiserie/blob/main/Cours%20termin%C3%A9s/Les%20escaliers%20tournants.ppt),
     [PPTX](https://github.com/kduchevreuil/Cours-Menuiserie/blob/main/Cours%20termin%C3%A9s/Les%20escaliers%20tournants.pptx).
+  - 🟢 Evaluation sur les escaliers <br>
+    [PDF](https://github.com/kduchevreuil/Cours-Menuiserie/blob/main/Cours%20termin%C3%A9s/evaluation%20escaliers.pdf),
+    [PPS](https://github.com/kduchevreuil/Cours-Menuiserie/blob/main/Cours%20termin%C3%A9s/evaluation%20escaliers.pps),
+    [PPT](https://github.com/kduchevreuil/Cours-Menuiserie/blob/main/Cours%20termin%C3%A9s/evaluation%20escaliers.ppt),
+    [PPTX](https://github.com/kduchevreuil/Cours-Menuiserie/blob/main/Cours%20termin%C3%A9s/evaluation%20escaliers.pptx).
 - Le bardage <br>
   [PDF](lien_vers_le_fichier.pdf),
   [PPS](lien_vers_le_fichier.pdf),
