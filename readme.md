@@ -642,10 +642,10 @@ Ensemble des cours de menuiserie au format DOC, DOCX, PPTC et PDF en acces libre
     [PPT](https://github.com/kduchevreuil/Cours-Menuiserie/blob/main/Cours%20termin%C3%A9s/Le%20vocabulaire%20de%20l'escalier.ppt),
     [PPTX](https://github.com/kduchevreuil/Cours-Menuiserie/blob/main/Cours%20termin%C3%A9s/Le%20vocabulaire%20de%20l'escalier.pptx).
   - Les escaliers droits <br>
-    [PDF](lien_vers_le_fichier.pdf),
-    [PPS](lien_vers_le_fichier.pdf),
-    [PPT](lien_vers_le_fichier.pptx),
-    [PPTX](lien_vers_le_fichier.pptx).
+    [PDF](https://github.com/kduchevreuil/Cours-Menuiserie/blob/main/Cours%20termin%C3%A9s/Les%20escaliers%20droits.pdf),
+    [PPS](https://github.com/kduchevreuil/Cours-Menuiserie/blob/main/Cours%20termin%C3%A9s/Les%20escaliers%20droits.pps),
+    [PPT](https://github.com/kduchevreuil/Cours-Menuiserie/blob/main/Cours%20termin%C3%A9s/Les%20escaliers%20droits.ppt),
+    [PPTX](https://github.com/kduchevreuil/Cours-Menuiserie/blob/main/Cours%20termin%C3%A9s/Les%20escaliers%20droits.pptx).
   - Les escaliers tournants <br>
     [PDF](lien_vers_le_fichier.pdf),
     [PPS](lien_vers_le_fichier.pdf),
