@@ -646,11 +646,11 @@ Ensemble des cours de menuiserie au format DOC, DOCX, PPTC et PDF en acces libre
     [PPS](https://github.com/kduchevreuil/Cours-Menuiserie/blob/main/Cours%20termin%C3%A9s/Les%20escaliers%20droits.pps),
     [PPT](https://github.com/kduchevreuil/Cours-Menuiserie/blob/main/Cours%20termin%C3%A9s/Les%20escaliers%20droits.ppt),
     [PPTX](https://github.com/kduchevreuil/Cours-Menuiserie/blob/main/Cours%20termin%C3%A9s/Les%20escaliers%20droits.pptx).
-  - Les escaliers tournants <br>
-    [PDF](lien_vers_le_fichier.pdf),
-    [PPS](lien_vers_le_fichier.pdf),
-    [PPT](lien_vers_le_fichier.pptx),
-    [PPTX](lien_vers_le_fichier.pptx).
+  - 🟢 Les escaliers tournants <br>
+    [PDF](https://github.com/kduchevreuil/Cours-Menuiserie/blob/main/Cours%20termin%C3%A9s/Les%20escaliers%20tournants.pdf),
+    [PPS](https://github.com/kduchevreuil/Cours-Menuiserie/blob/main/Cours%20termin%C3%A9s/Les%20escaliers%20tournants.pps),
+    [PPT](https://github.com/kduchevreuil/Cours-Menuiserie/blob/main/Cours%20termin%C3%A9s/Les%20escaliers%20tournants.ppt),
+    [PPTX](https://github.com/kduchevreuil/Cours-Menuiserie/blob/main/Cours%20termin%C3%A9s/Les%20escaliers%20tournants.pptx).
 - Le bardage <br>
   [PDF](lien_vers_le_fichier.pdf),
   [PPS](lien_vers_le_fichier.pdf),
