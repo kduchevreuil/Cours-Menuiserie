@@ -712,11 +712,11 @@ Index :
   [PPT](lien_vers_le_fichier.pptx),
   [PPTX](lien_vers_le_fichier.pptx).
 - Le logiciel Sketchup
-  - 🔴 les bases du logiciel <br>
-    [PDF](lien_vers_le_fichier.pdf),
-    [PPS](lien_vers_le_fichier.pdf),
-    [PPT](lien_vers_le_fichier.pptx),
-    [PPTX](lien_vers_le_fichier.pptx).
+  - 🟢 les bases du logiciel <br>
+    [PDF](https://github.com/kduchevreuil/Cours-Menuiserie/blob/main/Cours%20termin%C3%A9s/Les%20bases%20de%20sketchup.pdf),
+    [PPS](https://github.com/kduchevreuil/Cours-Menuiserie/blob/main/Cours%20termin%C3%A9s/Les%20bases%20de%20sketchup.pps),
+    [PPT](https://github.com/kduchevreuil/Cours-Menuiserie/blob/main/Cours%20termin%C3%A9s/Les%20bases%20de%20sketchup.ppt),
+    [PPTX](https://github.com/kduchevreuil/Cours-Menuiserie/blob/main/Cours%20termin%C3%A9s/Les%20bases%20de%20sketchup.pptx).
   - 🔴 L'utilisation des outils avancés <br>
     [PDF](lien_vers_le_fichier.pdf),
     [PPS](lien_vers_le_fichier.pdf),
