@@ -55,21 +55,21 @@ Index :
   [PPTX](lien_vers_le_fichier.pptx).
 - Les fôrets <br>
 
-- 🔴 La forêt française <br>
-  [PDF](lien_vers_le_fichier.pdf),
-  [PPS](lien_vers_le_fichier.pdf),
-  [PPT](lien_vers_le_fichier.pptx),
-  [PPTX](lien_vers_le_fichier.pptx).
-- 🔴 La forêt européenne <br>
-  [PDF](lien_vers_le_fichier.pdf),
-  [PPS](lien_vers_le_fichier.pdf),
-  [PPT](lien_vers_le_fichier.pptx),
-  [PPTX](lien_vers_le_fichier.pptx).
-- 🔴 La forêt mondiale <br>
-  [PDF](lien_vers_le_fichier.pdf),
-  [PPS](lien_vers_le_fichier.pdf),
-  [PPT](lien_vers_le_fichier.pptx),
-  [PPTX](lien_vers_le_fichier.pptx).
+  - 🔴 La forêt française <br>
+    [PDF](lien_vers_le_fichier.pdf),
+    [PPS](lien_vers_le_fichier.pdf),
+    [PPT](lien_vers_le_fichier.pptx),
+    [PPTX](lien_vers_le_fichier.pptx).
+  - 🔴 La forêt européenne <br>
+    [PDF](lien_vers_le_fichier.pdf),
+    [PPS](lien_vers_le_fichier.pdf),
+    [PPT](lien_vers_le_fichier.pptx),
+    [PPTX](lien_vers_le_fichier.pptx).
+  - 🔴 La forêt mondiale <br>
+    [PDF](lien_vers_le_fichier.pdf),
+    [PPS](lien_vers_le_fichier.pdf),
+    [PPT](lien_vers_le_fichier.pptx),
+    [PPTX](lien_vers_le_fichier.pptx).
 
 - 🔴 Les débits de bois <br>
   [PDF](lien_vers_le_fichier.pdf),
@@ -78,21 +78,21 @@ Index :
   [PPTX](lien_vers_le_fichier.pptx).
 - Les essences de bois <br>
 
-- 🔴 Les bois résineux <br>
-  [PDF](lien_vers_le_fichier.pdf),
-  [PPS](lien_vers_le_fichier.pdf),
-  [PPT](lien_vers_le_fichier.pptx),
-  [PPTX](lien_vers_le_fichier.pptx).
-- 🔴 Les bois feuillus <br>
-  [PDF](lien_vers_le_fichier.pdf),
-  [PPS](lien_vers_le_fichier.pdf),
-  [PPT](lien_vers_le_fichier.pptx),
-  [PPTX](lien_vers_le_fichier.pptx).
-- 🔴 Les bois exotiques <br>
-  [PDF](lien_vers_le_fichier.pdf),
-  [PPS](lien_vers_le_fichier.pdf),
-  [PPT](lien_vers_le_fichier.pptx),
-  [PPTX](lien_vers_le_fichier.pptx).
+  - 🔴 Les bois résineux <br>
+    [PDF](lien_vers_le_fichier.pdf),
+    [PPS](lien_vers_le_fichier.pdf),
+    [PPT](lien_vers_le_fichier.pptx),
+    [PPTX](lien_vers_le_fichier.pptx).
+  - 🔴 Les bois feuillus <br>
+    [PDF](lien_vers_le_fichier.pdf),
+    [PPS](lien_vers_le_fichier.pdf),
+    [PPT](lien_vers_le_fichier.pptx),
+    [PPTX](lien_vers_le_fichier.pptx).
+  - 🔴 Les bois exotiques <br>
+    [PDF](lien_vers_le_fichier.pdf),
+    [PPS](lien_vers_le_fichier.pdf),
+    [PPT](lien_vers_le_fichier.pptx),
+    [PPTX](lien_vers_le_fichier.pptx).
 
 - 🔴 L'anatomie du bois <br>
   [PDF](lien_vers_le_fichier.pdf),
@@ -105,6 +105,7 @@ Index :
   [PPT](lien_vers_le_fichier.pptx),
   [PPTX](lien_vers_le_fichier.pptx).
 - Le sechage <br>
+
   - 🔴 Le séchage naturel <br>
     [PDF](lien_vers_le_fichier.pdf),
     [PPS](lien_vers_le_fichier.pdf),
@@ -115,6 +116,7 @@ Index :
     [PPS](lien_vers_le_fichier.pdf),
     [PPT](lien_vers_le_fichier.pptx),
     [PPTX](lien_vers_le_fichier.pptx).
+
 - Les défauts du bois <br>
 
   - 🔴 Les insectes <br>
