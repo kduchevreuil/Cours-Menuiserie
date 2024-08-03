@@ -717,11 +717,11 @@ Index :
     [PPS](https://github.com/kduchevreuil/Cours-Menuiserie/blob/main/Cours%20termin%C3%A9s/Les%20bases%20de%20sketchup.pps),
     [PPT](https://github.com/kduchevreuil/Cours-Menuiserie/blob/main/Cours%20termin%C3%A9s/Les%20bases%20de%20sketchup.ppt),
     [PPTX](https://github.com/kduchevreuil/Cours-Menuiserie/blob/main/Cours%20termin%C3%A9s/Les%20bases%20de%20sketchup.pptx).
-  - 🔴 L'utilisation des outils avancés <br>
-    [PDF](lien_vers_le_fichier.pdf),
-    [PPS](lien_vers_le_fichier.pdf),
-    [PPT](lien_vers_le_fichier.pptx),
-    [PPTX](lien_vers_le_fichier.pptx).
+  - 🟢 L'utilisation des outils avancés <br>
+    [PDF](https://github.com/kduchevreuil/Cours-Menuiserie/blob/main/Cours%20termin%C3%A9s/L'utilisation%20des%20outils%20avanc%C3%A9s.pdf),
+    [PPS](https://github.com/kduchevreuil/Cours-Menuiserie/blob/main/Cours%20termin%C3%A9s/L'utilisation%20des%20outils%20avanc%C3%A9s.pps),
+    [PPT](https://github.com/kduchevreuil/Cours-Menuiserie/blob/main/Cours%20termin%C3%A9s/L'utilisation%20des%20outils%20avanc%C3%A9s.ppt),
+    [PPTX](https://github.com/kduchevreuil/Cours-Menuiserie/blob/main/Cours%20termin%C3%A9s/L'utilisation%20des%20outils%20avanc%C3%A9s.pptx).
   - 🔴 la mise en plan <br>
     [PDF](lien_vers_le_fichier.pdf),
     [PPS](lien_vers_le_fichier.pdf),
