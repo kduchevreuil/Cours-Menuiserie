@@ -5,7 +5,7 @@ Ensemble des cours de menuiserie au format DOC, DOCX, PPTC et PDF en acces libre
 Index :
 
 - 🟢 cours terminer
-- 🟠 cours à améliorer
+- 🟡 cours à améliorer
 - 🔴 cours à faire
 
 ## Les bases du métier de menuisier
@@ -514,7 +514,7 @@ Index :
   [PPS](lien_vers_le_fichier.pdf),
   [PPT](lien_vers_le_fichier.pptx),
   [PPTX](lien_vers_le_fichier.pptx).
-- 🟠 Le planning de phase <br>
+- 🟡 Le planning de phase <br>
   [PDF](https://github.com/kduchevreuil/Cours-Menuiserie/blob/main/Cours%20termin%C3%A9s/Le%20planning%20de%20phase.pdf),
   [PPS](https://github.com/kduchevreuil/Cours-Menuiserie/blob/main/Cours%20termin%C3%A9s/Le%20planning%20de%20phase.pps),
   [PPT](https://github.com/kduchevreuil/Cours-Menuiserie/blob/main/Cours%20termin%C3%A9s/Le%20planning%20de%20phase.ppt),
@@ -731,7 +731,9 @@ Index :
 ## Dossiers techniques
 
 - 🔴 Les entailles
-- 🔴 Le noeud
+- 🔴 Le noeud 6 pièces
+- 🔴 Le noeud 12 pièces
+- 🔴 Le gros dé en bois
 - 🔴 Le dessous de table
 - 🔴 Le tabouret
 - 🔴 La table basse
