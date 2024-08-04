@@ -441,7 +441,7 @@ _Objectif_:
     [PPT](lien_vers_le_fichier.pptx),
     [PPTX](lien_vers_le_fichier.pptx).
 
-- 🔴 Le collage
+- 🔴 Le collage <br>
 
   - 🔴 Les types de colles <br>
     [PDF](lien_vers_le_fichier.pdf),
@@ -454,7 +454,7 @@ _Objectif_:
     [PPT](lien_vers_le_fichier.pptx),
     [PPTX](lien_vers_le_fichier.pptx).
 
-- 🔴 Le serrage
+- 🔴 Le serrage <br>
 
   - 🔴 Les outils de serrage <br>
     [PDF](lien_vers_le_fichier.pdf),
@@ -528,11 +528,11 @@ _Objectif_:
   [PPT](https://github.com/kduchevreuil/Cours-Menuiserie/blob/main/Cours%20termin%C3%A9s/Le%20planning%20de%20phase.ppt),
   [PPTX](https://github.com/kduchevreuil/Cours-Menuiserie/blob/main/Cours%20termin%C3%A9s/Le%20planning%20de%20phase.pptx).<br>
 
-_Objectif_ :
+          _Objectif_ :
 
-- _Organiser les différentes phases de travail_
-- _Optimiser les opérations de menuiserie_
-- _Déterminer les étapes de réalisation_<br>
+            - _Organiser les différentes phases de travail_
+            - _Optimiser les opérations de menuiserie_
+            - _Déterminer les étapes de réalisation_<br>
 
 - 🔴 Les gammes d'usinage <br>
   [PDF](lien_vers_le_fichier.pdf),
