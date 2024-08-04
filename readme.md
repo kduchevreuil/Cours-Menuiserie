@@ -53,12 +53,13 @@ Index :
   [PPS](lien_vers_le_fichier.pdf),
   [PPT](lien_vers_le_fichier.pptx),
   [PPTX](lien_vers_le_fichier.pptx).<br>
-  **Objectif** :
 
-  - _Identifier les différentes parties de l'arbre_
-  - _Déterminer les limites des zones utilisables pour la menuserie_
-  - _Connaître les différentes type d'arbres_
-  - _Informer de la vie et de l'abattage des arbres_
+**Objectif** :
+
+- _Identifier les différentes parties de l'arbre_
+- _Déterminer les limites des zones utilisables pour la menuserie_
+- _Connaître les différentes type d'arbres_
+- _Informer de la vie et de l'abattage des arbres_
 
 - Les fôrets <br>
 
@@ -526,11 +527,12 @@ Index :
   [PPS](https://github.com/kduchevreuil/Cours-Menuiserie/blob/main/Cours%20termin%C3%A9s/Le%20planning%20de%20phase.pps),
   [PPT](https://github.com/kduchevreuil/Cours-Menuiserie/blob/main/Cours%20termin%C3%A9s/Le%20planning%20de%20phase.ppt),
   [PPTX](https://github.com/kduchevreuil/Cours-Menuiserie/blob/main/Cours%20termin%C3%A9s/Le%20planning%20de%20phase.pptx).<br>
-  **Objectif** :
 
-  - _Organiser les différentes phases de travail_
-  - _Optimiser les opérations de menuiserie_
-  - _Déterminer les étapes de réalisation_
+**Objectif** :
+
+- _Organiser les différentes phases de travail_
+- _Optimiser les opérations de menuiserie_
+- _Déterminer les étapes de réalisation_
 
 - 🔴 Les gammes d'usinage <br>
   [PDF](lien_vers_le_fichier.pdf),
@@ -677,12 +679,13 @@ Index :
     [PPS](https://github.com/kduchevreuil/Cours-Menuiserie/blob/main/Cours%20termin%C3%A9s/evaluation%20escaliers.pps),
     [PPT](https://github.com/kduchevreuil/Cours-Menuiserie/blob/main/Cours%20termin%C3%A9s/evaluation%20escaliers.ppt),
     [PPTX](https://github.com/kduchevreuil/Cours-Menuiserie/blob/main/Cours%20termin%C3%A9s/evaluation%20escaliers.pptx).<br>
-    **Objectif** :
 
-  - _Apprendre le vocabulaire d'un escalier_
-  - _Calculer les dimensions d'un escalier_
-  - _Tracer un escalier_
-  - _Evaluer la qualité d'un escalier_
+**Objectif** :
+
+- _Apprendre le vocabulaire d'un escalier_
+- _Calculer les dimensions d'un escalier_
+- _Tracer un escalier_
+- _Evaluer la qualité d'un escalier_
 
 - 🔴 Le bardage <br>
   [PDF](lien_vers_le_fichier.pdf),
@@ -750,11 +753,11 @@ Index :
     [PPT](lien_vers_le_fichier.pptx),
     [PPTX](lien_vers_le_fichier.pptx).<br>
 
-  **Objectif** :
+**Objectif** :
 
-  - _Apprendre les bases du DAO_
-  - _Savoir lire un plan_
-  - _Réaliser un plan_
+- _Apprendre les bases du DAO_
+- _Savoir lire un plan_
+- _Réaliser un plan_
 
 ## Dossiers techniques
 
