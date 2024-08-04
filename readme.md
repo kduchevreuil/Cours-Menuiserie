@@ -61,7 +61,7 @@ _Objectif_:
 - _Connaître les différentes type d'arbres_
 - _Informer de la vie et de l'abattage des arbres_<br>
 
-- Les fôrets <br>
+- 🔴 Les fôrets <br>
 
   - 🔴 La forêt française <br>
     [PDF](lien_vers_le_fichier.pdf),
@@ -84,7 +84,7 @@ _Objectif_:
   [PPS](lien_vers_le_fichier.pdf),
   [PPT](lien_vers_le_fichier.pptx),
   [PPTX](lien_vers_le_fichier.pptx).
-- Les essences de bois <br>
+- 🔴 Les essences de bois <br>
 
   - 🔴 Les bois résineux <br>
     [PDF](lien_vers_le_fichier.pdf),
@@ -112,7 +112,7 @@ _Objectif_:
   [PPS](lien_vers_le_fichier.pdf),
   [PPT](lien_vers_le_fichier.pptx),
   [PPTX](lien_vers_le_fichier.pptx).
-- Le sechage <br>
+- 🔴 Le sechage <br>
 
   - 🔴 Le séchage naturel <br>
     [PDF](lien_vers_le_fichier.pdf),
@@ -125,7 +125,7 @@ _Objectif_:
     [PPT](lien_vers_le_fichier.pptx),
     [PPTX](lien_vers_le_fichier.pptx).
 
-- Les défauts du bois <br>
+- 🔴 Les défauts du bois <br>
 
   - 🔴 Les insectes <br>
     [PDF](lien_vers_le_fichier.pdf),
@@ -158,7 +158,7 @@ _Objectif_:
   [PPS](lien_vers_le_fichier.pdf),
   [PPT](lien_vers_le_fichier.pptx),
   [PPTX](lien_vers_le_fichier.pptx).
-- Les panneaux dérivés du bois <br>
+- 🔴 Les panneaux dérivés du bois <br>
 
   - 🔴 L'OSB <br>
     [PDF](lien_vers_le_fichier.pdf),
@@ -201,7 +201,7 @@ _Objectif_:
   [PPS](lien_vers_le_fichier.pdf),
   [PPT](lien_vers_le_fichier.pptx),
   [PPTX](lien_vers_le_fichier.pptx).
-- La quincaillerie <br>
+- 🔴 La quincaillerie <br>
   - 🔴 Les paumelles <br>
     [PDF](lien_vers_le_fichier.pdf),
     [PPS](lien_vers_le_fichier.pdf),
@@ -230,7 +230,7 @@ _Objectif_:
 
 ## Les outils et les machines
 
-- L'outillage à main <br>
+- 🔴 L'outillage à main <br>
   - 🔴 Le racloir <br>
     [PDF](lien_vers_le_fichier.pdf),
     [PPS](lien_vers_le_fichier.pdf),
@@ -261,7 +261,7 @@ _Objectif_:
     [PPS](lien_vers_le_fichier.pdf),
     [PPT](lien_vers_le_fichier.pptx),
     [PPTX](lien_vers_le_fichier.pptx).
-- L'éléctroportatif <br>
+- 🔴 L'éléctroportatif <br>
 
   - 🔴 La perceuse <br>
     [PDF](lien_vers_le_fichier.pdf),
@@ -294,7 +294,7 @@ _Objectif_:
     [PPT](lien_vers_le_fichier.pptx),
     [PPTX](lien_vers_le_fichier.pptx).
 
-- Les machines stationnaires <br>
+- 🔴 Les machines stationnaires <br>
 
   - 🔴 La scie radiale <br>
     [PDF](lien_vers_le_fichier.pdf),
@@ -418,7 +418,7 @@ _Objectif_:
   [PPS](lien_vers_le_fichier.pdf),
   [PPT](lien_vers_le_fichier.pptx),
   [PPTX](lien_vers_le_fichier.pptx).
-- Les assemblages <br>
+- 🔴 Les assemblages <br>
 
   - 🔴 Lamello et domino <br>
     [PDF](lien_vers_le_fichier.pdf),
@@ -441,7 +441,7 @@ _Objectif_:
     [PPT](lien_vers_le_fichier.pptx),
     [PPTX](lien_vers_le_fichier.pptx).
 
-- Le collage
+- 🔴 Le collage
 
   - 🔴 Les types de colles <br>
     [PDF](lien_vers_le_fichier.pdf),
@@ -454,7 +454,7 @@ _Objectif_:
     [PPT](lien_vers_le_fichier.pptx),
     [PPTX](lien_vers_le_fichier.pptx).
 
-- Le serrage
+- 🔴 Le serrage
 
   - 🔴 Les outils de serrage <br>
     [PDF](lien_vers_le_fichier.pdf),
@@ -657,7 +657,7 @@ _Objectif_ :
   [PPS](lien_vers_le_fichier.pdf),
   [PPT](lien_vers_le_fichier.pptx),
   [PPTX](lien_vers_le_fichier.pptx).
-- Les escaliers
+- 🟢 Les escaliers
 
   - 🟢 Le vocabulaire de l'escalier <br>
     [PDF](https://github.com/kduchevreuil/Cours-Menuiserie/blob/main/Cours%20termin%C3%A9s/Le%20vocabulaire%20de%20l'escalier.pdf),
@@ -735,7 +735,7 @@ _Objectif_ :
   [PPS](lien_vers_le_fichier.pdf),
   [PPT](lien_vers_le_fichier.pptx),
   [PPTX](lien_vers_le_fichier.pptx).
-- Le logiciel Sketchup
+- 🟢 Le logiciel Sketchup
 
   - 🟢 les bases du logiciel <br>
     [PDF](https://github.com/kduchevreuil/Cours-Menuiserie/blob/main/Cours%20termin%C3%A9s/Les%20bases%20de%20sketchup.pdf),
