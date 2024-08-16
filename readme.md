@@ -49,41 +49,31 @@ Index :
 ## Les matériaux
 
 - 🔴 L'arbre <br>
-  [PDF](lien_vers_le_fichier.pdf),
-  [PPS](lien_vers_le_fichier.pdf),
-  [PPT](lien_vers_le_fichier.pptx),
-  [PPTX](lien_vers_le_fichier.pptx).<br>
+  [PDF](https://github.com/kduchevreuil/Cours-Menuiserie/blob/main/Cours%20termin%C3%A9s/L'arbre.pdf),
+  [PPS](https://github.com/kduchevreuil/Cours-Menuiserie/blob/main/Cours%20termin%C3%A9s/L'arbre.pps),
+  [PPT](https://github.com/kduchevreuil/Cours-Menuiserie/blob/main/Cours%20termin%C3%A9s/L'arbre.ppt),
+  [PPTX](https://github.com/kduchevreuil/Cours-Menuiserie/blob/main/Cours%20termin%C3%A9s/L'arbre.pptx).<br>
 
   _Objectif_:
 
   - _Identifier les différentes parties de l'arbre_
   - _Déterminer les limites des zones utilisables pour la menuserie_
-  - _Faire la différence entre les types d'arbres_
-  - _Informer de la vie et de l'abattage des arbres_<br>
+  - _Faire la différence entre les types d'arbres_<br>
 
 - 🔴 Les fôrets <br>
 
-  - 🔴 La forêt française <br>
-    [PDF](lien_vers_le_fichier.pdf),
-    [PPS](lien_vers_le_fichier.pdf),
-    [PPT](lien_vers_le_fichier.pptx),
-    [PPTX](lien_vers_le_fichier.pptx).
-  - 🔴 La forêt européenne <br>
-    [PDF](lien_vers_le_fichier.pdf),
-    [PPS](lien_vers_le_fichier.pdf),
-    [PPT](lien_vers_le_fichier.pptx),
-    [PPTX](lien_vers_le_fichier.pptx).
-  - 🔴 La forêt mondiale <br>
-    [PDF](lien_vers_le_fichier.pdf),
-    [PPS](lien_vers_le_fichier.pdf),
-    [PPT](lien_vers_le_fichier.pptx),
-    [PPTX](lien_vers_le_fichier.pptx).
+[PDF](lien_vers_le_fichier.pdf),
+[PPS](lien_vers_le_fichier.pdf),
+[PPT](lien_vers_le_fichier.pptx),
+[PPTX](lien_vers_le_fichier.pptx).
 
 - 🔴 Les débits de bois <br>
-  [PDF](lien_vers_le_fichier.pdf),
-  [PPS](lien_vers_le_fichier.pdf),
-  [PPT](lien_vers_le_fichier.pptx),
-  [PPTX](lien_vers_le_fichier.pptx).
+
+[PDF](lien_vers_le_fichier.pdf),
+[PPS](lien_vers_le_fichier.pdf),
+[PPT](lien_vers_le_fichier.pptx),
+[PPTX](lien_vers_le_fichier.pptx).
+
 - 🔴 Les essences de bois <br>
 
   - 🔴 Les bois résineux <br>
@@ -112,7 +102,7 @@ Index :
   [PPS](lien_vers_le_fichier.pdf),
   [PPT](lien_vers_le_fichier.pptx),
   [PPTX](lien_vers_le_fichier.pptx).
-- 🔴 Le sechage <br>
+- 🔴 Le séchage <br>
 
   - 🔴 Le séchage naturel <br>
     [PDF](lien_vers_le_fichier.pdf),
