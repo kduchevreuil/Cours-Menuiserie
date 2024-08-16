@@ -58,7 +58,7 @@ Index :
 
   - _Identifier les différentes parties de l'arbre_
   - _Déterminer les limites des zones utilisables pour la menuserie_
-  - _Connaître les différentes type d'arbres_
+  - _Faire la différence entre les types d'arbres_
   - _Informer de la vie et de l'abattage des arbres_<br>
 
 - 🔴 Les fôrets <br>
