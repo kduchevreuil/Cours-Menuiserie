@@ -54,12 +54,6 @@ Index :
   [PPT](https://github.com/kduchevreuil/Cours-Menuiserie/blob/main/Cours%20termin%C3%A9s/L'arbre.ppt),
   [PPTX](https://github.com/kduchevreuil/Cours-Menuiserie/blob/main/Cours%20termin%C3%A9s/L'arbre.pptx).<br>
 
-  _Objectif_:
-
-  - _Identifier les différentes parties de l'arbre_
-  - _Déterminer les limites des zones utilisables pour la menuserie_
-  - _Faire la différence entre les types d'arbres_<br>
-
 - 🔴 Les fôrets <br>
 
 [PDF](lien_vers_le_fichier.pdf),
@@ -518,12 +512,6 @@ Index :
   [PPT](https://github.com/kduchevreuil/Cours-Menuiserie/blob/main/Cours%20termin%C3%A9s/Le%20planning%20de%20phase.ppt),
   [PPTX](https://github.com/kduchevreuil/Cours-Menuiserie/blob/main/Cours%20termin%C3%A9s/Le%20planning%20de%20phase.pptx).<br>
 
-  _Objectif_ :
-
-  - _Organiser les différentes phases de travail_
-  - _Optimiser les opérations de menuiserie_
-  - _Déterminer les étapes de réalisation_<br>
-
 - 🔴 Les gammes d'usinage <br>
   [PDF](lien_vers_le_fichier.pdf),
   [PPS](lien_vers_le_fichier.pdf),
@@ -670,13 +658,6 @@ Index :
     [PPT](https://github.com/kduchevreuil/Cours-Menuiserie/blob/main/Cours%20termin%C3%A9s/evaluation%20escaliers.ppt),
     [PPTX](https://github.com/kduchevreuil/Cours-Menuiserie/blob/main/Cours%20termin%C3%A9s/evaluation%20escaliers.pptx).<br>
 
-  _Objectif_ :
-
-  - _Apprendre le vocabulaire d'un escalier_
-  - _Calculer les dimensions d'un escalier_
-  - _Tracer un escalier_
-  - _Evaluer la qualité d'un escalier_<br>
-
 - 🔴 Le bardage <br>
   [PDF](lien_vers_le_fichier.pdf),
   [PPS](lien_vers_le_fichier.pdf),
@@ -743,11 +724,23 @@ Index :
     [PPT](lien_vers_le_fichier.pptx),
     [PPTX](lien_vers_le_fichier.pptx).<br>
 
-    _Objectif_ :
+## Sujets divers
 
-    - _Apprendre les bases du DAO_
-    - _Savoir lire un plan_
-    - _Réaliser un plan_<br>
+- 🔴 Comment réaliser une entaille ?<br>
+  [PDF](lien_vers_le_fichier.pdf),
+  [PPS](lien_vers_le_fichier.pdf),
+  [PPT](lien_vers_le_fichier.pptx),
+  [PPTX](lien_vers_le_fichier.pptx).<br>
+- 🔴 Comment affuter un ciseaux ?<br>
+  [PDF](lien_vers_le_fichier.pdf),
+  [PPS](lien_vers_le_fichier.pdf),
+  [PPT](lien_vers_le_fichier.pptx),
+  [PPTX](lien_vers_le_fichier.pptx).<br>
+- 🔴 Commment regler un rabot ?<br>
+  [PDF](lien_vers_le_fichier.pdf),
+  [PPS](lien_vers_le_fichier.pdf),
+  [PPT](lien_vers_le_fichier.pptx),
+  [PPTX](lien_vers_le_fichier.pptx).<br>
 
 ## Dossiers techniques
 
@@ -755,7 +748,7 @@ Index :
 - 🔴 Le noeud 6 pièces
 - 🔴 Le noeud 12 pièces
 - 🔴 Le gros dé en bois
-- 🔴 Le dessous de table
+- 🔴 Le dessous de plat
 - 🔴 Le tabouret
 - 🔴 La table basse
 - 🔴 La table de chevet
