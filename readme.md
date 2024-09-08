@@ -397,7 +397,7 @@ Index :
     [PPT](lien_vers_le_fichier.pptx),
     [PPTX](lien_vers_le_fichier.pptx).
 
-- 🔴 La fiche de débit <br>
+- 🟢 La fiche de débit <br>
   [PDF](https://github.com/kduchevreuil/Cours-Menuiserie/blob/main/Cours%20termin%C3%A9s/La%20feuille%20de%20d%C3%A9bit.pdf),
   [PPS](https://github.com/kduchevreuil/Cours-Menuiserie/blob/main/Cours%20termin%C3%A9s/La%20feuille%20de%20d%C3%A9bit.pps),
   [PPT](https://github.com/kduchevreuil/Cours-Menuiserie/blob/main/Cours%20termin%C3%A9s/La%20feuille%20de%20d%C3%A9bit.ppt),
