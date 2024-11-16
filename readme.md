@@ -1,812 +1,260 @@
 # Les cours de menuiserie
 
-Ensemble des cours de menuiserie au format DOC, DOCX, PPTC et PDF en acces libre <br>
+Ensemble des cours de menuiserie en acces libre 
 
-Index :
-
-- 🟢 cours terminer
-- 🟡 cours à améliorer
-- 🔴 cours à faire
+Index des sujets à traiter :
 
 ## Les bases du métier de menuisier
 
-- 🔴 Les compétences du menuisier <br>
-  [PDF](lien_vers_le_fichier.pdf),
-  [PPS](lien_vers_le_fichier.pdf),
-  [PPT](lien_vers_le_fichier.pptx),
-  [PPTX](lien_vers_le_fichier.pptx).
-
-- 🔴 Les ouvrages du menuisier <br>
-  [PDF](lien_vers_le_fichier.pdf),
-  [PPS](lien_vers_le_fichier.pdf),
-  [PPT](lien_vers_le_fichier.pptx),
-  [PPTX](lien_vers_le_fichier.pptx).
-
-- 🔴 Découverte de l'atelier <br>
-  [PDF](lien_vers_le_fichier.pdf),
-  [PPS](lien_vers_le_fichier.pdf),
-  [PPT](lien_vers_le_fichier.pptx),
-  [PPTX](lien_vers_le_fichier.pptx).
-
-- 🔴 Les métiers du bois<br>
-  [PDF](lien_vers_le_fichier.pdf),
-  [PPS](lien_vers_le_fichier.pdf),
-  [PPT](lien_vers_le_fichier.pptx),
-  [PPTX](lien_vers_le_fichier.pptx).
-
-- 🔴 Les différents corps d'état <br>
-  [PDF](lien_vers_le_fichier.pdf),
-  [PPS](lien_vers_le_fichier.pdf),
-  [PPT](lien_vers_le_fichier.pptx),
-  [PPTX](lien_vers_le_fichier.pptx).
-
-- 🔴 Les EPI et la manutention <br>
-  [PDF](lien_vers_le_fichier.pdf),
-  [PPS](lien_vers_le_fichier.pdf),
-  [PPT](lien_vers_le_fichier.pptx),
-  [PPTX](lien_vers_le_fichier.pptx).
-
+-  Les compétences du menuisier 
+-  Les ouvrages du menuisier 
+-  Découverte de l'atelier 
+-  Les métiers du bois
+-  Les différents corps d'états
+-  Les EPI et la manutention 
+  
 ## Les matériaux
 
-- 🔴 L'arbre <br>
-  [PDF](https://github.com/kduchevreuil/Cours-Menuiserie/blob/main/Cours%20termin%C3%A9s/L'arbre.pdf),
-  [PPS](https://github.com/kduchevreuil/Cours-Menuiserie/blob/main/Cours%20termin%C3%A9s/L'arbre.pps),
-  [PPT](https://github.com/kduchevreuil/Cours-Menuiserie/blob/main/Cours%20termin%C3%A9s/L'arbre.ppt),
-  [PPTX](https://github.com/kduchevreuil/Cours-Menuiserie/blob/main/Cours%20termin%C3%A9s/L'arbre.pptx).<br>
+-  L'arbre 
+-  Les fôrets 
+-  Les débits de bois 
+-  Les essences de bois 
+-  L'anatomie du bois 
+-  La rétractabilité 
+-  Le séchage 
 
-- 🔴 Les fôrets <br>
+  -  Le séchage naturel 
+  -  Le séchage artificiel 
+    
 
-[PDF](lien_vers_le_fichier.pdf),
-[PPS](lien_vers_le_fichier.pdf),
-[PPT](lien_vers_le_fichier.pptx),
-[PPTX](lien_vers_le_fichier.pptx).
+-  Les défauts du bois 
 
-- 🔴 Les débits de bois <br>
+  -  Les insectes 
+  -  Les champignons 
+  -  Les moisissures 
+  -  Les causes externes 
 
-[PDF](lien_vers_le_fichier.pdf),
-[PPS](lien_vers_le_fichier.pdf),
-[PPT](lien_vers_le_fichier.pptx),
-[PPTX](lien_vers_le_fichier.pptx).
+-  Les propriétés méchaniques du bois 
+  
+-  Les propriétés chimiques du bois 
+  
+-  Les panneaux dérivés du bois 
 
-- 🔴 Les essences de bois <br>
+  -  L'OSB 
+  -  Le MDF   
+  -  Le CP     
+  -  L'alvéolaire     
+  -  l'aggloméré     
 
-  - 🔴 Les bois résineux <br>
-    [PDF](lien_vers_le_fichier.pdf),
-    [PPS](lien_vers_le_fichier.pdf),
-    [PPT](lien_vers_le_fichier.pptx),
-    [PPTX](lien_vers_le_fichier.pptx).
-  - 🔴 Les bois feuillus <br>
-    [PDF](lien_vers_le_fichier.pdf),
-    [PPS](lien_vers_le_fichier.pdf),
-    [PPT](lien_vers_le_fichier.pptx),
-    [PPTX](lien_vers_le_fichier.pptx).
-  - 🔴 Les bois exotiques <br>
-    [PDF](lien_vers_le_fichier.pdf),
-    [PPS](lien_vers_le_fichier.pdf),
-    [PPT](lien_vers_le_fichier.pptx),
-    [PPTX](lien_vers_le_fichier.pptx).
-
-- 🔴 L'anatomie du bois <br>
-  [PDF](lien_vers_le_fichier.pdf),
-  [PPS](lien_vers_le_fichier.pdf),
-  [PPT](lien_vers_le_fichier.pptx),
-  [PPTX](lien_vers_le_fichier.pptx).
-- 🔴 La rétractabilité <br>
-  [PDF](lien_vers_le_fichier.pdf),
-  [PPS](lien_vers_le_fichier.pdf),
-  [PPT](lien_vers_le_fichier.pptx),
-  [PPTX](lien_vers_le_fichier.pptx).
-- 🔴 Le séchage <br>
-
-  - 🔴 Le séchage naturel <br>
-    [PDF](lien_vers_le_fichier.pdf),
-    [PPS](lien_vers_le_fichier.pdf),
-    [PPT](lien_vers_le_fichier.pptx),
-    [PPTX](lien_vers_le_fichier.pptx).
-  - 🔴 Le séchage artificiel <br>
-    [PDF](lien_vers_le_fichier.pdf),
-    [PPS](lien_vers_le_fichier.pdf),
-    [PPT](lien_vers_le_fichier.pptx),
-    [PPTX](lien_vers_le_fichier.pptx).
-
-- 🔴 Les défauts du bois <br>
-
-  - 🔴 Les insectes <br>
-    [PDF](lien_vers_le_fichier.pdf),
-    [PPS](lien_vers_le_fichier.pdf),
-    [PPT](lien_vers_le_fichier.pptx),
-    [PPTX](lien_vers_le_fichier.pptx).
-  - 🔴 Les champignons <br>
-    [PDF](lien_vers_le_fichier.pdf),
-    [PPS](lien_vers_le_fichier.pdf),
-    [PPT](lien_vers_le_fichier.pptx),
-    [PPTX](lien_vers_le_fichier.pptx).
-  - 🔴 Les moisissures <br>
-    [PDF](lien_vers_le_fichier.pdf),
-    [PPS](lien_vers_le_fichier.pdf),
-    [PPT](lien_vers_le_fichier.pptx),
-    [PPTX](lien_vers_le_fichier.pptx).
-  - 🔴 Les causes externes <br>
-    [PDF](lien_vers_le_fichier.pdf),
-    [PPS](lien_vers_le_fichier.pdf),
-    [PPT](lien_vers_le_fichier.pptx),
-    [PPTX](lien_vers_le_fichier.pptx).
-
-- 🔴 Les propriétés méchaniques du bois <br>
-  [PDF](lien_vers_le_fichier.pdf),
-  [PPS](lien_vers_le_fichier.pdf),
-  [PPT](lien_vers_le_fichier.pptx),
-  [PPTX](lien_vers_le_fichier.pptx).
-- 🔴 Les propriétés chimiques du bois <br>
-  [PDF](lien_vers_le_fichier.pdf),
-  [PPS](lien_vers_le_fichier.pdf),
-  [PPT](lien_vers_le_fichier.pptx),
-  [PPTX](lien_vers_le_fichier.pptx).
-- 🔴 Les panneaux dérivés du bois <br>
-
-  - 🔴 L'OSB <br>
-    [PDF](lien_vers_le_fichier.pdf),
-    [PPS](lien_vers_le_fichier.pdf),
-    [PPT](lien_vers_le_fichier.pptx),
-    [PPTX](lien_vers_le_fichier.pptx).
-  - 🔴 Le MDF <br>
-    [PDF](lien_vers_le_fichier.pdf),
-    [PPS](lien_vers_le_fichier.pdf),
-    [PPT](lien_vers_le_fichier.pptx),
-    [PPTX](lien_vers_le_fichier.pptx).
-  - 🔴 Le CP <br>
-    [PDF](lien_vers_le_fichier.pdf),
-    [PPS](lien_vers_le_fichier.pdf),
-    [PPT](lien_vers_le_fichier.pptx),
-    [PPTX](lien_vers_le_fichier.pptx).
-  - 🔴 L'alvéolaire <br>
-    [PDF](lien_vers_le_fichier.pdf),
-    [PPS](lien_vers_le_fichier.pdf),
-    [PPT](lien_vers_le_fichier.pptx),
-    [PPTX](lien_vers_le_fichier.pptx).
-  - 🔴 l'aggloméré <br>
-    [PDF](lien_vers_le_fichier.pdf),
-    [PPS](lien_vers_le_fichier.pdf),
-    [PPT](lien_vers_le_fichier.pptx),
-    [PPTX](lien_vers_le_fichier.pptx).
-
-- 🔴 Les pointes <br>
-  [PDF](lien_vers_le_fichier.pdf),
-  [PPS](lien_vers_le_fichier.pdf),
-  [PPT](lien_vers_le_fichier.pptx),
-  [PPTX](lien_vers_le_fichier.pptx).
-- 🔴 Le vissage <br>
-  [PDF](lien_vers_le_fichier.pdf),
-  [PPS](lien_vers_le_fichier.pdf),
-  [PPT](lien_vers_le_fichier.pptx),
-  [PPTX](lien_vers_le_fichier.pptx).
-- 🔴 Les coullisses <br>
-  [PDF](lien_vers_le_fichier.pdf),
-  [PPS](lien_vers_le_fichier.pdf),
-  [PPT](lien_vers_le_fichier.pptx),
-  [PPTX](lien_vers_le_fichier.pptx).
-- 🔴 La quincaillerie <br>
-  - 🔴 Les paumelles <br>
-    [PDF](lien_vers_le_fichier.pdf),
-    [PPS](lien_vers_le_fichier.pdf),
-    [PPT](lien_vers_le_fichier.pptx),
-    [PPTX](lien_vers_le_fichier.pptx).
-  - 🔴 Les charnières <br>
-    [PDF](lien_vers_le_fichier.pdf),
-    [PPS](lien_vers_le_fichier.pdf),
-    [PPT](lien_vers_le_fichier.pptx),
-    [PPTX](lien_vers_le_fichier.pptx).
-  - 🔴 Les fiches <br>
-    [PDF](lien_vers_le_fichier.pdf),
-    [PPS](lien_vers_le_fichier.pdf),
-    [PPT](lien_vers_le_fichier.pptx),
-    [PPTX](lien_vers_le_fichier.pptx).
-  - 🔴 Le ferrage <br>
-    [PDF](lien_vers_le_fichier.pdf),
-    [PPS](lien_vers_le_fichier.pdf),
-    [PPT](lien_vers_le_fichier.pptx),
-    [PPTX](lien_vers_le_fichier.pptx).
-- 🔴 Les fixations <br>
-  [PDF](lien_vers_le_fichier.pdf),
-  [PPS](lien_vers_le_fichier.pdf),
-  [PPT](lien_vers_le_fichier.pptx),
-  [PPTX](lien_vers_le_fichier.pptx).
+-  Les pointes 
+-  Le vissage 
+-  Les coullisses 
+-  La quincaillerie 
+  -  Les paumelles 
+  -  Les charnières 
+  -  Les fiches 
+  -  Le ferrage 
+-  Les fixations 
+  
 
 ## Les outils et les machines
 
-- 🔴 L'outillage à main <br>
-  - 🔴 Le racloir <br>
-    [PDF](lien_vers_le_fichier.pdf),
-    [PPS](lien_vers_le_fichier.pdf),
-    [PPT](lien_vers_le_fichier.pptx),
-    [PPTX](lien_vers_le_fichier.pptx).
-  - 🔴 Le ciseau à bois <br>
-    [PDF](lien_vers_le_fichier.pdf),
-    [PPS](lien_vers_le_fichier.pdf),
-    [PPT](lien_vers_le_fichier.pptx),
-    [PPTX](lien_vers_le_fichier.pptx).
-  - 🔴 Les outils de traçage <br>
-    [PDF](lien_vers_le_fichier.pdf),
-    [PPS](lien_vers_le_fichier.pdf),
-    [PPT](lien_vers_le_fichier.pptx),
-    [PPTX](lien_vers_le_fichier.pptx).
-  - 🔴 Les outils de mesure <br>
-    [PDF](lien_vers_le_fichier.pdf),
-    [PPS](lien_vers_le_fichier.pdf),
-    [PPT](lien_vers_le_fichier.pptx),
-    [PPTX](lien_vers_le_fichier.pptx).
-  - 🔴 Les scies à main <br>
-    [PDF](lien_vers_le_fichier.pdf),
-    [PPS](lien_vers_le_fichier.pdf),
-    [PPT](lien_vers_le_fichier.pptx),
-    [PPTX](lien_vers_le_fichier.pptx).
-  - 🔴 Les rabots <br>
-    [PDF](lien_vers_le_fichier.pdf),
-    [PPS](lien_vers_le_fichier.pdf),
-    [PPT](lien_vers_le_fichier.pptx),
-    [PPTX](lien_vers_le_fichier.pptx).
-- 🔴 L'éléctroportatif <br>
+-  L'outillage à main 
+  -  Le racloir 
+  -  Le ciseau à bois 
+  -  Les outils de traçage 
+  -  Les outils de mesure 
+  -  Les scies à main 
+  -  Les rabots 
+    
+-  L'éléctroportatif 
 
-  - 🔴 La perceuse <br>
-    [PDF](lien_vers_le_fichier.pdf),
-    [PPS](lien_vers_le_fichier.pdf),
-    [PPT](lien_vers_le_fichier.pptx),
-    [PPTX](lien_vers_le_fichier.pptx).
-  - 🔴 La visseuse <br>
-    [PDF](lien_vers_le_fichier.pdf),
-    [PPS](lien_vers_le_fichier.pdf),
-    [PPT](lien_vers_le_fichier.pptx),
-    [PPTX](lien_vers_le_fichier.pptx).
-  - 🔴 La ponceuse <br>
-    [PDF](lien_vers_le_fichier.pdf),
-    [PPS](lien_vers_le_fichier.pdf),
-    [PPT](lien_vers_le_fichier.pptx),
-    [PPTX](lien_vers_le_fichier.pptx).
-  - 🔴 La défonceuse <br>
-    [PDF](lien_vers_le_fichier.pdf),
-    [PPS](lien_vers_le_fichier.pdf),
-    [PPT](lien_vers_le_fichier.pptx),
-    [PPTX](lien_vers_le_fichier.pptx).
-  - 🔴 La scie sauteuse <br>
-    [PDF](lien_vers_le_fichier.pdf),
-    [PPS](lien_vers_le_fichier.pdf),
-    [PPT](lien_vers_le_fichier.pptx),
-    [PPTX](lien_vers_le_fichier.pptx).
-  - 🔴 Le rabot éléctrique <br>
-    [PDF](lien_vers_le_fichier.pdf),
-    [PPS](lien_vers_le_fichier.pdf),
-    [PPT](lien_vers_le_fichier.pptx),
-    [PPTX](lien_vers_le_fichier.pptx).
+  -  La perceuse 
+  -  La visseuse 
+  -  La ponceuse 
+  -  La défonceuse 
+  -  La scie sauteuse 
+  -  Le rabot éléctrique 
+    
 
-- 🔴 Les machines stationnaires <br>
+-  Les machines stationnaires 
 
-  - 🔴 La scie radiale <br>
-    [PDF](lien_vers_le_fichier.pdf),
-    [PPS](lien_vers_le_fichier.pdf),
-    [PPT](lien_vers_le_fichier.pptx),
-    [PPTX](lien_vers_le_fichier.pptx).
-  - 🔴 La scie à format <br>
-    [PDF](lien_vers_le_fichier.pdf),
-    [PPS](lien_vers_le_fichier.pdf),
-    [PPT](lien_vers_le_fichier.pptx),
-    [PPTX](lien_vers_le_fichier.pptx).
-  - 🔴 les lames de scies circulaire <br>
-    [PDF](lien_vers_le_fichier.pdf),
-    [PPS](lien_vers_le_fichier.pdf),
-    [PPT](lien_vers_le_fichier.pptx),
-    [PPTX](lien_vers_le_fichier.pptx).
-  - 🔴 La scie à ruban <br>
-    [PDF](lien_vers_le_fichier.pdf),
-    [PPS](lien_vers_le_fichier.pdf),
-    [PPT](lien_vers_le_fichier.pptx),
-    [PPTX](lien_vers_le_fichier.pptx).
-  - 🔴 La scie à panneaux <br>
-    [PDF](lien_vers_le_fichier.pdf),
-    [PPS](lien_vers_le_fichier.pdf),
-    [PPT](lien_vers_le_fichier.pptx),
-    [PPTX](lien_vers_le_fichier.pptx).
-  - 🔴 La dégauchisseuse <br>
-    [PDF](lien_vers_le_fichier.pdf),
-    [PPS](lien_vers_le_fichier.pdf),
-    [PPT](lien_vers_le_fichier.pptx),
-    [PPTX](lien_vers_le_fichier.pptx).
-  - 🔴 La raboteuse <br>
-    [PDF](lien_vers_le_fichier.pdf),
-    [PPS](lien_vers_le_fichier.pdf),
-    [PPT](lien_vers_le_fichier.pptx),
-    [PPTX](lien_vers_le_fichier.pptx).
-  - 🔴 La corroyeuse 4 faces <br>
-    [PDF](lien_vers_le_fichier.pdf),
-    [PPS](lien_vers_le_fichier.pdf),
-    [PPT](lien_vers_le_fichier.pptx),
-    [PPTX](lien_vers_le_fichier.pptx).
-  - 🔴 La mortaiseuse <br>
-    [PDF](lien_vers_le_fichier.pdf),
-    [PPS](lien_vers_le_fichier.pdf),
-    [PPT](lien_vers_le_fichier.pptx),
-    [PPTX](lien_vers_le_fichier.pptx).
-  - 🔴 La tenoneuse <br>
-    [PDF](lien_vers_le_fichier.pdf),
-    [PPS](lien_vers_le_fichier.pdf),
-    [PPT](lien_vers_le_fichier.pptx),
-    [PPTX](lien_vers_le_fichier.pptx).
-  - 🔴 La toupie <br>
-    [PDF](lien_vers_le_fichier.pdf),
-    [PPS](lien_vers_le_fichier.pdf),
-    [PPT](lien_vers_le_fichier.pptx),
-    [PPTX](lien_vers_le_fichier.pptx).
-  - 🔴 La perceuse à colonne <br>
-    [PDF](lien_vers_le_fichier.pdf),
-    [PPS](lien_vers_le_fichier.pdf),
-    [PPT](lien_vers_le_fichier.pptx),
-    [PPTX](lien_vers_le_fichier.pptx).
-  - 🔴 La mortaiseuse <br>
-    [PDF](lien_vers_le_fichier.pdf),
-    [PPS](lien_vers_le_fichier.pdf),
-    [PPT](lien_vers_le_fichier.pptx),
-    [PPTX](lien_vers_le_fichier.pptx).
+  -  La scie radiale 
+  -  La scie à format 
+  -  les lames de scies circulaire 
+  -  La scie à ruban 
+  -  La scie à panneaux 
+  -  La dégauchisseuse 
+  -  La raboteuse 
+  -  La corroyeuse 4 faces 
+  -  La mortaiseuse 
+  -  La tenoneuse 
+  -  La toupie 
+  -  La perceuse à colonne 
+  -  La mortaiseuse 
+    
 
-- 🔴 Le profilage (les moulures) <br>
-  [PDF](lien_vers_le_fichier.pdf),
-  [PPS](lien_vers_le_fichier.pdf),
-  [PPT](lien_vers_le_fichier.pptx),
-  [PPTX](lien_vers_le_fichier.pptx).
-- 🔴 La toupie <br>
-  [PDF](lien_vers_le_fichier.pdf),
-  [PPS](lien_vers_le_fichier.pdf),
-  [PPT](lien_vers_le_fichier.pptx),
-  [PPTX](lien_vers_le_fichier.pptx).
-- 🔴 La calibreuse <br>
-  [PDF](lien_vers_le_fichier.pdf),
-  [PPS](lien_vers_le_fichier.pdf),
-  [PPT](lien_vers_le_fichier.pptx),
-  [PPTX](lien_vers_le_fichier.pptx).
-- 🔴 Le centre d'usinage numérique <br>
-  [PDF](lien_vers_le_fichier.pdf),
-  [PPS](lien_vers_le_fichier.pdf),
-  [PPT](lien_vers_le_fichier.pptx),
-  [PPTX](lien_vers_le_fichier.pptx).
+-  Le profilage (les moulures) 
+-  La toupie 
+-  La calibreuse 
+-  Le centre d'usinage numérique 
 
 ## Techniques et méthodes de travail
 
-- 🔴 Les signes d'établissement <br>
-  [PDF](lien_vers_le_fichier.pdf),
-  [PPS](lien_vers_le_fichier.pdf),
-  [PPT](lien_vers_le_fichier.pptx),
-  [PPTX](lien_vers_le_fichier.pptx).
-- 🔴 L'affutage <br>
+-  Les signes d'établissement 
+-  L'affutage 
+  -  L'affutage des ciseaux 
+  -  L'affutage du racloir 
+  -  L'affutage des scies 
+  -  Les machines d'affutage 
+    
 
-  - 🔴 L'affutage des ciseaux <br>
-    [PDF](lien_vers_le_fichier.pdf),
-    [PPS](lien_vers_le_fichier.pdf),
-    [PPT](lien_vers_le_fichier.pptx),
-    [PPTX](lien_vers_le_fichier.pptx).
-  - 🔴 L'affutage du racloir <br>
-    [PDF](lien_vers_le_fichier.pdf),
-    [PPS](lien_vers_le_fichier.pdf),
-    [PPT](lien_vers_le_fichier.pptx),
-    [PPTX](lien_vers_le_fichier.pptx).
-  - 🔴 L'affutage des scies <br>
-    [PDF](lien_vers_le_fichier.pdf),
-    [PPS](lien_vers_le_fichier.pdf),
-    [PPT](lien_vers_le_fichier.pptx),
-    [PPTX](lien_vers_le_fichier.pptx).
-  - 🔴 Les machines d'affutage <br>
-    [PDF](lien_vers_le_fichier.pdf),
-    [PPS](lien_vers_le_fichier.pdf),
-    [PPT](lien_vers_le_fichier.pptx),
-    [PPTX](lien_vers_le_fichier.pptx).
-
-- 🟢 La fiche de débit <br>
-  [PDF](https://github.com/kduchevreuil/Cours-Menuiserie/blob/main/Cours%20termin%C3%A9s/La%20feuille%20de%20d%C3%A9bit.pdf),
-  [PPS](https://github.com/kduchevreuil/Cours-Menuiserie/blob/main/Cours%20termin%C3%A9s/La%20feuille%20de%20d%C3%A9bit.pps),
-  [PPT](https://github.com/kduchevreuil/Cours-Menuiserie/blob/main/Cours%20termin%C3%A9s/La%20feuille%20de%20d%C3%A9bit.ppt),
-  [PPTX](https://github.com/kduchevreuil/Cours-Menuiserie/blob/main/Cours%20termin%C3%A9s/La%20feuille%20de%20d%C3%A9bit.pptx).
-- 🔴 Les assemblages <br>
-
-  - 🔴 Lamello et domino <br>
-    [PDF](lien_vers_le_fichier.pdf),
-    [PPS](lien_vers_le_fichier.pdf),
-    [PPT](lien_vers_le_fichier.pptx),
-    [PPTX](lien_vers_le_fichier.pptx).
-  - 🔴 Les tenons et mortaises <br>
-    [PDF](lien_vers_le_fichier.pdf),
-    [PPS](lien_vers_le_fichier.pdf),
-    [PPT](lien_vers_le_fichier.pptx),
-    [PPTX](lien_vers_le_fichier.pptx).
-  - 🔴 Les rainures et languettes <br>
-    [PDF](lien_vers_le_fichier.pdf),
-    [PPS](lien_vers_le_fichier.pdf),
-    [PPT](lien_vers_le_fichier.pptx),
-    [PPTX](lien_vers_le_fichier.pptx).
-  - 🔴 Les tourillons <br>
-    [PDF](lien_vers_le_fichier.pdf),
-    [PPS](lien_vers_le_fichier.pdf),
-    [PPT](lien_vers_le_fichier.pptx),
-    [PPTX](lien_vers_le_fichier.pptx).
-
-- 🔴 Le collage <br>
-
-  - 🔴 Les types de colles <br>
-    [PDF](lien_vers_le_fichier.pdf),
-    [PPS](lien_vers_le_fichier.pdf),
-    [PPT](lien_vers_le_fichier.pptx),
-    [PPTX](lien_vers_le_fichier.pptx).
-  - 🔴 Les étapes du collage <br>
-    [PDF](lien_vers_le_fichier.pdf),
-    [PPS](lien_vers_le_fichier.pdf),
-    [PPT](lien_vers_le_fichier.pptx),
-    [PPTX](lien_vers_le_fichier.pptx).
-
-- 🔴 Le serrage <br>
-
-  - 🔴 Les outils de serrage <br>
-    [PDF](lien_vers_le_fichier.pdf),
-    [PPS](lien_vers_le_fichier.pdf),
-    [PPT](lien_vers_le_fichier.pptx),
-    [PPTX](lien_vers_le_fichier.pptx).
-  - 🔴 Les techniques de serrage <br>
-    [PDF](lien_vers_le_fichier.pdf),
-    [PPS](lien_vers_le_fichier.pdf),
-    [PPT](lien_vers_le_fichier.pptx),
-    [PPTX](lien_vers_le_fichier.pptx).
-
-- 🔴 La finition <br>
-  [PDF](lien_vers_le_fichier.pdf),
-  [PPS](lien_vers_le_fichier.pdf),
-  [PPT](lien_vers_le_fichier.pptx),
-  [PPTX](lien_vers_le_fichier.pptx).
-- 🔴 L'épure <br>
-  [PDF](lien_vers_le_fichier.pdf),
-  [PPS](lien_vers_le_fichier.pdf),
-  [PPT](lien_vers_le_fichier.pptx),
-  [PPTX](lien_vers_le_fichier.pptx).
-- 🔴 Le montage d'usinage <br>
-  [PDF](lien_vers_le_fichier.pdf),
-  [PPS](lien_vers_le_fichier.pdf),
-  [PPT](lien_vers_le_fichier.pptx),
-  [PPTX](lien_vers_le_fichier.pptx).
-- 🔴 Le chevillage <br>
-  [PDF](lien_vers_le_fichier.pdf),
-  [PPS](lien_vers_le_fichier.pdf),
-  [PPT](lien_vers_le_fichier.pptx),
-  [PPTX](lien_vers_le_fichier.pptx).
-- 🔴 Le système 32 <br>
-  [PDF](lien_vers_le_fichier.pdf),
-  [PPS](lien_vers_le_fichier.pdf),
-  [PPT](lien_vers_le_fichier.pptx),
-  [PPTX](lien_vers_le_fichier.pptx).
-- 🔴 Le calpinage <br>
-  [PDF](lien_vers_le_fichier.pdf),
-  [PPS](lien_vers_le_fichier.pdf),
-  [PPT](lien_vers_le_fichier.pptx),
-  [PPTX](lien_vers_le_fichier.pptx).
-- 🔴 La maintenance <br>
-  [PDF](lien_vers_le_fichier.pdf),
-  [PPS](lien_vers_le_fichier.pdf),
-  [PPT](lien_vers_le_fichier.pptx),
-  [PPTX](lien_vers_le_fichier.pptx).
-- 🔴 Analogie des machines outils <br>
-  [PDF](lien_vers_le_fichier.pdf),
-  [PPS](lien_vers_le_fichier.pdf),
-  [PPT](lien_vers_le_fichier.pptx),
-  [PPTX](lien_vers_le_fichier.pptx).
-- 🔴 Les symboles conventionnels des machines <br>
-  [PDF](lien_vers_le_fichier.pdf),
-  [PPS](lien_vers_le_fichier.pdf),
-  [PPT](lien_vers_le_fichier.pptx),
-  [PPTX](lien_vers_le_fichier.pptx).
-- 🔴 L'isostatismes <br>
-  [PDF](lien_vers_le_fichier.pdf),
-  [PPS](lien_vers_le_fichier.pdf),
-  [PPT](lien_vers_le_fichier.pptx),
-  [PPTX](lien_vers_le_fichier.pptx).
-- 🔴 Le dossier méthodes <br>
-  [PDF](lien_vers_le_fichier.pdf),
-  [PPS](lien_vers_le_fichier.pdf),
-  [PPT](lien_vers_le_fichier.pptx),
-  [PPTX](lien_vers_le_fichier.pptx).
-- 🟡 Le planning des phases <br>
-  [PDF](https://github.com/kduchevreuil/Cours-Menuiserie/blob/main/Cours%20termin%C3%A9s/Le%20planning%20de%20phase.pdf),
-  [PPS](https://github.com/kduchevreuil/Cours-Menuiserie/blob/main/Cours%20termin%C3%A9s/Le%20planning%20de%20phase.pps),
-  [PPT](https://github.com/kduchevreuil/Cours-Menuiserie/blob/main/Cours%20termin%C3%A9s/Le%20planning%20de%20phase.ppt),
-  [PPTX](https://github.com/kduchevreuil/Cours-Menuiserie/blob/main/Cours%20termin%C3%A9s/Le%20planning%20de%20phase.pptx).<br>
-
-- 🔴 Les gammes d'usinage <br>
-  [PDF](lien_vers_le_fichier.pdf),
-  [PPS](lien_vers_le_fichier.pdf),
-  [PPT](lien_vers_le_fichier.pptx),
-  [PPTX](lien_vers_le_fichier.pptx).
-- 🔴 La cinématique de coupe <br>
-  [PDF](lien_vers_le_fichier.pdf),
-  [PPS](lien_vers_le_fichier.pdf),
-  [PPT](lien_vers_le_fichier.pptx),
-  [PPTX](lien_vers_le_fichier.pptx).
-- 🔴 Matrice des antériorités <br>
-  [PDF](lien_vers_le_fichier.pdf),
-  [PPS](lien_vers_le_fichier.pdf),
-  [PPT](lien_vers_le_fichier.pptx),
-  [PPTX](lien_vers_le_fichier.pptx).
-- 🔴 Le bon de commande <br>
-  [PDF](lien_vers_le_fichier.pdf),
-  [PPS](lien_vers_le_fichier.pdf),
-  [PPT](lien_vers_le_fichier.pptx),
-  [PPTX](lien_vers_le_fichier.pptx).
-- 🔴 Diagramme de Pert <br>
-  [PDF](lien_vers_le_fichier.pdf),
-  [PPS](lien_vers_le_fichier.pdf),
-  [PPT](lien_vers_le_fichier.pptx),
-  [PPTX](lien_vers_le_fichier.pptx).
-- 🔴 Diagramme de Gant <br>
-  [PDF](lien_vers_le_fichier.pdf),
-  [PPS](lien_vers_le_fichier.pdf),
-  [PPT](lien_vers_le_fichier.pptx),
-  [PPTX](lien_vers_le_fichier.pptx).
-- 🔴 L'isolation thermique <br>
-  [PDF](lien_vers_le_fichier.pdf),
-  [PPS](lien_vers_le_fichier.pdf),
-  [PPT](lien_vers_le_fichier.pptx),
-  [PPTX](lien_vers_le_fichier.pptx).
-- 🔴 L'isolation acoustique <br>
-  [PDF](lien_vers_le_fichier.pdf),
-  [PPS](lien_vers_le_fichier.pdf),
-  [PPT](lien_vers_le_fichier.pptx),
-  [PPTX](lien_vers_le_fichier.pptx).
-- 🔴 Géométrie descriptive <br>
-  [PDF](lien_vers_le_fichier.pdf),
-  [PPS](lien_vers_le_fichier.pdf),
-  [PPT](lien_vers_le_fichier.pptx),
-  [PPTX](lien_vers_le_fichier.pptx).
-- 🔴 Resistance des matériaux <br>
-  [PDF](lien_vers_le_fichier.pdf),
-  [PPS](lien_vers_le_fichier.pdf),
-  [PPT](lien_vers_le_fichier.pptx),
-  [PPTX](lien_vers_le_fichier.pptx).
-- 🔴 Pareto ABC <br>
-  [PDF](lien_vers_le_fichier.pdf),
-  [PPS](lien_vers_le_fichier.pdf),
-  [PPT](lien_vers_le_fichier.pptx),
-  [PPTX](lien_vers_le_fichier.pptx).
-- 🔴 Temps <br>
-  [PDF](lien_vers_le_fichier.pdf),
-  [PPS](lien_vers_le_fichier.pdf),
-  [PPT](lien_vers_le_fichier.pptx),
-  [PPTX](lien_vers_le_fichier.pptx).
-- 🔴 Les cotations <br>
-  [PDF](lien_vers_le_fichier.pdf),
-  [PPS](lien_vers_le_fichier.pdf),
-  [PPT](lien_vers_le_fichier.pptx),
-  [PPTX](lien_vers_le_fichier.pptx).
-- 🔴 Nomenclature par niveau <br>
-  [PDF](lien_vers_le_fichier.pdf),
-  [PPS](lien_vers_le_fichier.pdf),
-  [PPT](lien_vers_le_fichier.pptx),
-  [PPTX](lien_vers_le_fichier.pptx).
-- 🔴 La qualité <br>
-  [PDF](lien_vers_le_fichier.pdf),
-  [PPS](lien_vers_le_fichier.pdf),
-  [PPT](lien_vers_le_fichier.pptx),
-  [PPTX](lien_vers_le_fichier.pptx).
-- 🔴 Le mode opératoire <br>
-  [PDF](lien_vers_le_fichier.pdf),
-  [PPS](lien_vers_le_fichier.pdf),
-  [PPT](lien_vers_le_fichier.pptx),
-  [PPTX](lien_vers_le_fichier.pptx).
-- 🔴 Le métrage (relevé de mesures) <br>
-  [PDF](lien_vers_le_fichier.pdf),
-  [PPS](lien_vers_le_fichier.pdf),
-  [PPT](lien_vers_le_fichier.pptx),
-  [PPTX](lien_vers_le_fichier.pptx).
+-  La fiche de débit 
+-  Les assemblages 
+  -  Lamello et domino 
+  -  Les tenons et mortaises 
+  -  Les rainures et languettes 
+  -  Les tourillons 
+    
+-  Le collage 
+  -  Les types de colles 
+  -  Les étapes du collage 
+    
+-  Le serrage 
+  -  Les outils de serrage 
+  -  Les techniques de serrage 
+    
+-  La finition 
+-  L'épure 
+-  Le montage d'usinage 
+-  Le chevillage 
+-  Le système 32 
+-  Le calpinage 
+-  La maintenance 
+-  Analogie des machines outils 
+-  Les symboles conventionnels des machines 
+-  L'isostatismes 
+-  Le dossier méthodes 
+  
+- Le planning des phases 
+-  Les gammes d'usinage 
+-  La cinématique de coupe 
+-  Matrice des antériorités 
+-  Le bon de commande 
+-  Diagramme de Pert 
+-  Diagramme de Gant 
+-  L'isolation thermique 
+-  L'isolation acoustique 
+-  Géométrie descriptive 
+-  Resistance des matériaux 
+-  Pareto ABC 
+-  Temps 
+-  Les cotations 
+-  Nomenclature par niveau 
+-  La qualité 
+-  Le mode opératoire 
+-  Le métrage (relevé de mesures) 
 
 ## Les ouvrages de menuiserie
 
-- 🔴 Les portes intérieures <br>
-  [PDF](lien_vers_le_fichier.pdf),
-  [PPS](lien_vers_le_fichier.pdf),
-  [PPT](lien_vers_le_fichier.pptx),
-  [PPTX](lien_vers_le_fichier.pptx).
-- 🔴 Les bâtis et les huisseries <br>
-  [PDF](lien_vers_le_fichier.pdf),
-  [PPS](lien_vers_le_fichier.pdf),
-  [PPT](lien_vers_le_fichier.pptx),
-  [PPTX](lien_vers_le_fichier.pptx).
-- 🔴 Le parquet <br>
-  [PDF](lien_vers_le_fichier.pdf),
-  [PPS](lien_vers_le_fichier.pdf),
-  [PPT](lien_vers_le_fichier.pptx),
-  [PPTX](lien_vers_le_fichier.pptx).
-- 🔴 Les fenetres <br>
-  [PDF](lien_vers_le_fichier.pdf),
-  [PPS](lien_vers_le_fichier.pdf),
-  [PPT](lien_vers_le_fichier.pptx),
-  [PPTX](lien_vers_le_fichier.pptx).
-- 🔴 Les volets <br>
-  [PDF](lien_vers_le_fichier.pdf),
-  [PPS](lien_vers_le_fichier.pdf),
-  [PPT](lien_vers_le_fichier.pptx),
-  [PPTX](lien_vers_le_fichier.pptx).
-- 🔴 Le lambris <br>
-  [PDF](lien_vers_le_fichier.pdf),
-  [PPS](lien_vers_le_fichier.pdf),
-  [PPT](lien_vers_le_fichier.pptx),
-  [PPTX](lien_vers_le_fichier.pptx).
-- 🔴 Les gardes corps <br>
-  [PDF](lien_vers_le_fichier.pdf),
-  [PPS](lien_vers_le_fichier.pdf),
-  [PPT](lien_vers_le_fichier.pptx),
-  [PPTX](lien_vers_le_fichier.pptx).
-- 🟢 Les escaliers
+-  Les portes intérieures 
+-  Les bâtis et les huisseries 
+-  Le parquet 
+-  Les fenetres 
+-  Les volets 
+-  Le lambris 
+-  Les gardes corps 
+-  Les escaliers
+  -  Le vocabulaire de l'escalier 
+  -  Les escaliers droits 
+  -  Les escaliers tournants 
+  -  Evaluation sur les escaliers 
 
-  - 🟢 Le vocabulaire de l'escalier <br>
-    [PDF](https://github.com/kduchevreuil/Cours-Menuiserie/blob/main/Cours%20termin%C3%A9s/Le%20vocabulaire%20de%20l'escalier.pdf),
-    [PPS](https://github.com/kduchevreuil/Cours-Menuiserie/blob/main/Cours%20termin%C3%A9s/Le%20vocabulaire%20de%20l'escalier.pps),
-    [PPT](https://github.com/kduchevreuil/Cours-Menuiserie/blob/main/Cours%20termin%C3%A9s/Le%20vocabulaire%20de%20l'escalier.ppt),
-    [PPTX](https://github.com/kduchevreuil/Cours-Menuiserie/blob/main/Cours%20termin%C3%A9s/Le%20vocabulaire%20de%20l'escalier.pptx).
-  - 🟢 Les escaliers droits <br>
-    [PDF](https://github.com/kduchevreuil/Cours-Menuiserie/blob/main/Cours%20termin%C3%A9s/Les%20escaliers%20droits.pdf),
-    [PPS](https://github.com/kduchevreuil/Cours-Menuiserie/blob/main/Cours%20termin%C3%A9s/Les%20escaliers%20droits.pps),
-    [PPT](https://github.com/kduchevreuil/Cours-Menuiserie/blob/main/Cours%20termin%C3%A9s/Les%20escaliers%20droits.ppt),
-    [PPTX](https://github.com/kduchevreuil/Cours-Menuiserie/blob/main/Cours%20termin%C3%A9s/Les%20escaliers%20droits.pptx).
-  - 🟢 Les escaliers tournants <br>
-    [PDF](https://github.com/kduchevreuil/Cours-Menuiserie/blob/main/Cours%20termin%C3%A9s/Les%20escaliers%20tournants.pdf),
-    [PPS](https://github.com/kduchevreuil/Cours-Menuiserie/blob/main/Cours%20termin%C3%A9s/Les%20escaliers%20tournants.pps),
-    [PPT](https://github.com/kduchevreuil/Cours-Menuiserie/blob/main/Cours%20termin%C3%A9s/Les%20escaliers%20tournants.ppt),
-    [PPTX](https://github.com/kduchevreuil/Cours-Menuiserie/blob/main/Cours%20termin%C3%A9s/Les%20escaliers%20tournants.pptx).
-  - 🟢 Evaluation sur les escaliers <br>
-    [PDF](https://github.com/kduchevreuil/Cours-Menuiserie/blob/main/Cours%20termin%C3%A9s/evaluation%20escaliers.pdf),
-    [PPS](https://github.com/kduchevreuil/Cours-Menuiserie/blob/main/Cours%20termin%C3%A9s/evaluation%20escaliers.pps),
-    [PPT](https://github.com/kduchevreuil/Cours-Menuiserie/blob/main/Cours%20termin%C3%A9s/evaluation%20escaliers.ppt),
-    [PPTX](https://github.com/kduchevreuil/Cours-Menuiserie/blob/main/Cours%20termin%C3%A9s/evaluation%20escaliers.pptx).<br>
-
-- 🔴 Le bardage <br>
-  [PDF](lien_vers_le_fichier.pdf),
-  [PPS](lien_vers_le_fichier.pdf),
-  [PPT](lien_vers_le_fichier.pptx),
-  [PPTX](lien_vers_le_fichier.pptx).
-- 🔴 Les faux plafonds <br>
-  [PDF](lien_vers_le_fichier.pdf),
-  [PPS](lien_vers_le_fichier.pdf),
-  [PPT](lien_vers_le_fichier.pptx),
-  [PPTX](lien_vers_le_fichier.pptx).
+-  Le bardage 
+-  Les faux plafonds 
+  
 
 ## Le dessin technique
 
-- 🔴 Les échelles <br>
-  [PDF](lien_vers_le_fichier.pdf),
-  [PPS](lien_vers_le_fichier.pdf),
-  [PPT](lien_vers_le_fichier.pptx),
-  [PPTX](lien_vers_le_fichier.pptx).
-- 🔴 La conversion <br>
-  [PDF](lien_vers_le_fichier.pdf),
-  [PPS](lien_vers_le_fichier.pdf),
-  [PPT](lien_vers_le_fichier.pptx),
-  [PPTX](lien_vers_le_fichier.pptx).
-- 🔴 La perspective eclatée <br>
-  [PDF](lien_vers_le_fichier.pdf),
-  [PPS](lien_vers_le_fichier.pdf),
-  [PPT](lien_vers_le_fichier.pptx),
-  [PPTX](lien_vers_le_fichier.pptx).
-- 🔴 L'épure <br>
-  [PDF](lien_vers_le_fichier.pdf),
-  [PPS](lien_vers_le_fichier.pdf),
-  [PPT](lien_vers_le_fichier.pptx),
-  [PPTX](lien_vers_le_fichier.pptx).
-- 🔴 Les bases du dessin <br>
-  [PDF](lien_vers_le_fichier.pdf),
-  [PPS](lien_vers_le_fichier.pdf),
-  [PPT](lien_vers_le_fichier.pptx),
-  [PPTX](lien_vers_le_fichier.pptx).
-- 🔴 Les vues <br>
-  [PDF](lien_vers_le_fichier.pdf),
-  [PPS](lien_vers_le_fichier.pdf),
-  [PPT](lien_vers_le_fichier.pptx),
-  [PPTX](lien_vers_le_fichier.pptx).
-- 🔴 Les coupes <br>
-  [PDF](lien_vers_le_fichier.pdf),
-  [PPS](lien_vers_le_fichier.pdf),
-  [PPT](lien_vers_le_fichier.pptx),
-  [PPTX](lien_vers_le_fichier.pptx).
-- 🟢 Le logiciel Sketchup
+-  Les échelles 
+-  La conversion 
+-  La perspective eclatée 
+-  L'épure 
+-  Les bases du dessin 
+-  Les vues 
+-  Les coupes 
+-  Le logiciel Sketchup
+  -  les bases du logiciel 
+  -  L'utilisation des outils avancés
+  -  la mise en plan 
+    
 
-  - 🟢 les bases du logiciel <br>
-    [PDF](https://github.com/kduchevreuil/Cours-Menuiserie/blob/main/Cours%20termin%C3%A9s/Les%20bases%20de%20sketchup.pdf),
-    [PPS](https://github.com/kduchevreuil/Cours-Menuiserie/blob/main/Cours%20termin%C3%A9s/Les%20bases%20de%20sketchup.pps),
-    [PPT](https://github.com/kduchevreuil/Cours-Menuiserie/blob/main/Cours%20termin%C3%A9s/Les%20bases%20de%20sketchup.ppt),
-    [PPTX](https://github.com/kduchevreuil/Cours-Menuiserie/blob/main/Cours%20termin%C3%A9s/Les%20bases%20de%20sketchup.pptx).
-  - 🟢 L'utilisation des outils avancés <br>
-    [PDF](https://github.com/kduchevreuil/Cours-Menuiserie/blob/main/Cours%20termin%C3%A9s/L'utilisation%20des%20outils%20avanc%C3%A9s.pdf),
-    [PPS](https://github.com/kduchevreuil/Cours-Menuiserie/blob/main/Cours%20termin%C3%A9s/L'utilisation%20des%20outils%20avanc%C3%A9s.pps),
-    [PPT](https://github.com/kduchevreuil/Cours-Menuiserie/blob/main/Cours%20termin%C3%A9s/L'utilisation%20des%20outils%20avanc%C3%A9s.ppt),
-    [PPTX](https://github.com/kduchevreuil/Cours-Menuiserie/blob/main/Cours%20termin%C3%A9s/L'utilisation%20des%20outils%20avanc%C3%A9s.pptx).
-  - 🔴 la mise en plan <br>
-    [PDF](lien_vers_le_fichier.pdf),
-    [PPS](lien_vers_le_fichier.pdf),
-    [PPT](lien_vers_le_fichier.pptx),
-    [PPTX](lien_vers_le_fichier.pptx).<br>
-
-## Sujets divers
-
-- 🔴 Comment réaliser une entaille ?<br>
-  [PDF](lien_vers_le_fichier.pdf),
-  [PPS](lien_vers_le_fichier.pdf),
-  [PPT](lien_vers_le_fichier.pptx),
-  [PPTX](lien_vers_le_fichier.pptx).<br>
-- 🔴 Comment affuter un ciseaux ?<br>
-  [PDF](lien_vers_le_fichier.pdf),
-  [PPS](lien_vers_le_fichier.pdf),
-  [PPT](lien_vers_le_fichier.pptx),
-  [PPTX](lien_vers_le_fichier.pptx).<br>
-- 🔴 Commment regler un rabot ?<br>
-  [PDF](lien_vers_le_fichier.pdf),
-  [PPS](lien_vers_le_fichier.pdf),
-  [PPT](lien_vers_le_fichier.pptx),
-  [PPTX](lien_vers_le_fichier.pptx).<br>
 
 ## Dossiers techniques
 
-- 🔴 Les entailles
-- 🔴 Le noeud 6 pièces
-- 🔴 Le noeud 12 pièces
-- 🔴 Le gros dé en bois
-- 🔴 Le dessous de plat
-- 🔴 Le tabouret
-- 🔴 La table basse
-- 🔴 La table de chevet
+-  Les entailles
+-  Le noeud 6 pièces
+-  Le noeud 12 pièces
+-  Le gros dé en bois
+-  Le dessous de plat
+-  Le tabouret
+-  La table basse
+-  La table de chevet
 
-## Mes réseaux sociaux <br>
+## Mes réseaux sociaux 
 
 <p align="center">
 
-<a href="https<br> //www.facebook.com/kduchevreuil/" target="_blank">
+<a href="https //www.facebook.com/kduchevreuil/" target="_blank">
 <img 
 class="IMGlink"
 src="./icones RS/facebook.png"
 width= 9%/>
 </a>
 
-<a href="https<br> //github.com/kduchevreuil" target="_blank">
+<a href="https //github.com/kduchevreuil" target="_blank">
 <img 
 class="IMGlink"
 src="./icones RS/github.png"
 width= 9%/>
 </a>
 
-<a href="https<br> //www.linkedin.com/in/kevin-du-chevreuil-b7390529a/" target="_blank">
+<a href="https //www.linkedin.com/in/kevin-du-chevreuil-b7390529a/" target="_blank">
 <img 
 class="IMGlink"
 src="./icones RS/linkedin.png"
 width= 9%/>
 </a>
 
-<a href="https<br> //www.instagram.com/kduchevreuil/" target="_blank">
+<a href="https //www.instagram.com/kduchevreuil/" target="_blank">
 <img 
 class="IMGlink"
 src="./icones RS/instagram.png"
 width= 9%/>
 </a>
 
-<a href="https<br> //www.pinterest.fr/kduchevreuil" target="_blank">
+<a href="https //www.pinterest.fr/kduchevreuil" target="_blank">
 <img 
 class="IMGlink"
 src="./icones RS/pinterest.png"
 width= 9%/>
 </a>
 
-<a href="https<br> //www.tiktok.com/@kduchevreuil" target="_blank">
+<a href="https //www.tiktok.com/@kduchevreuil" target="_blank">
 <img 
 class="IMGlink"
 src="./icones RS/tiktok.png"
 width= 9%/>
 </a>
 
-<a href="https<br> //twitter.com/kduchevreuil" target="_blank">
+<a href="https //twitter.com/kduchevreuil" target="_blank">
 <img 
 class="IMGlink"
 src="./icones RS/twitter.png"
 width= 9%/>
 </a>
 
-<a href="https<br> //www.youtube.com/channel/UCbR7KQ-UTx8dznOkuC5TVfQ" target="_blank">
+<a href="https //www.youtube.com/channel/UCbR7KQ-UTx8dznOkuC5TVfQ" target="_blank">
 <img 
 class="IMGlink"
 src="./icones RS/youtube.png"
@@ -815,6 +263,81 @@ width= 9%/>
 
 </p>
 
-## Note pour corrections :
+## Mes réseaux sociaux :
 
-- Le cours sur le planning des phases est à rendre plus générique
+### Bienvenue à tous... 
+
+<p align="center">
+
+<a href="[https://www.facebook.com/kduchevreuil/](https://www.facebook.com/kduchevreuil/)" target="_blank">
+<img 
+class="IMGlink"
+src="./icones RS/facebook.png"
+width= 7%/>
+</a>
+
+<a href="[https://github.com/kduchevreuil](https://www.reddit.com/user/kduchevreuil/)" target="_blank">
+<img 
+class="IMGlink"
+src="./icones RS/reddit.png"
+width= 7%/>
+</a>
+
+<a href="[https://www.instagram.com/kduchevreuil/](https://www.instagram.com/kduchevreuil/)" target="_blank">
+<img 
+class="IMGlink"
+src="./icones RS/instagram.png"
+width= 7%/>
+</a>
+
+<a href="[https://www.pinterest.fr/kduchevreuil](https://www.pinterest.fr/kduchevreuil)" target="_blank">
+<img 
+class="IMGlink"
+src="./icones RS/pinterest.png"
+width= 7%/>
+</a>
+
+<a href="[https://www.snapchat.com/add/kduchevreuil](https://www.snapchat.com/add/kduchevreuil)" target="_blank">
+<img 
+class="IMGlink"
+src="./icones RS/snapchat.png"
+width= 7%/>
+</a>
+
+<a href="[https://www.tiktok.com/@kduchevreuil](https://www.tiktok.com/@kduchevreuil)" target="_blank">
+<img 
+class="IMGlink"
+src="./icones RS/tiktok.png"
+width= 7%/>
+</a>
+
+<a href="[https://twitter.com/kduchevreuil](https://twitter.com/kduchevreuil)" target="_blank">
+<img 
+class="IMGlink"
+src="./icones RS/twitter.png"
+width= 7%/>
+</a>
+
+<a href="[https://www.youtube.com/channel/UCbR7KQ-UTx8dznOkuC5TVfQ](https://www.youtube.com/channel/UCbR7KQ-UTx8dznOkuC5TVfQ)" target="_blank">
+<img 
+class="IMGlink"
+src="./icones RS/youtube.png"
+width= 7%/>
+</a>
+
+<a href="[https://www.threads.net/@kduchevreuil](https://www.threads.net/@kduchevreuil)" target="_blank">
+<img 
+class="IMGlink"
+src="./icones RS/threads.png"
+width= 7%/>
+</a>
+
+<a href="[https://www.threads.net/@kduchevreuil](https://www.threads.net/@kduchevreuil)" target="_blank">
+<img 
+class="IMGlink"
+src="./icones RS/dailymotion.png"
+width= 7%/>
+</a>
+
+</p>
+
