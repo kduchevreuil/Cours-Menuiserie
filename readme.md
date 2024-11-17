@@ -6,55 +6,55 @@ Index des sujets à traiter :
 
 ## Les bases du métier de menuisier
 
--  # Les compétences du menuisier 
--  # Les ouvrages du menuisier 
--  # Découverte de l'atelier 
--  # Les métiers du bois
--  # Les différents corps d'états
--  # Les EPI et la manutention 
+-  ### Les compétences du menuisier 
+-  ### Les ouvrages du menuisier 
+-  ### Découverte de l'atelier 
+-  ### Les métiers du bois
+-  ### Les différents corps d'états
+-  ### Les EPI et la manutention 
   
 ## Les matériaux
 
--  # L'arbre 
--  # Les fôrets 
--  # Les débits de bois 
--  # Les essences de bois 
--  # L'anatomie du bois 
--  # La rétractabilité 
--  # Le séchage 
+-  ### L'arbre 
+-  ### Les fôrets 
+-  ### Les débits de bois 
+-  ### Les essences de bois 
+-  ### L'anatomie du bois 
+-  ### La rétractabilité 
+-  ### Le séchage 
   -  Le séchage naturel 
   -  Le séchage artificiel 
     
 
--  # Les défauts du bois 
+-  ### Les défauts du bois 
   -  Les insectes 
   -  Les champignons 
   -  Les moisissures 
   -  Les causes externes 
 
--  # Les propriétés méchaniques du bois 
--  # Les propriétés chimiques du bois 
--  # Les panneaux dérivés du bois 
+-  ### Les propriétés méchaniques du bois 
+-  ### Les propriétés chimiques du bois 
+-  ### Les panneaux dérivés du bois 
   -  L'OSB 
   -  Le MDF   
   -  Le CP     
   -  L'alvéolaire     
   -  l'aggloméré     
 
--  # Les pointes 
--  # Le vissage 
--  # Les coullisses 
--  # La quincaillerie 
+-  ### Les pointes 
+-  ### Le vissage 
+-  ### Les coullisses 
+-  ### La quincaillerie 
   -  Les paumelles 
   -  Les charnières 
   -  Les fiches 
   -  Le ferrage 
--  # Les fixations 
+-  ### Les fixations 
   
 
 ## Les outils et les machines
 
--  # L'outillage à main 
+-  ### L'outillage à main 
   -  Le racloir 
   -  Le ciseau à bois 
   -  Les outils de traçage 
@@ -62,7 +62,7 @@ Index des sujets à traiter :
   -  Les scies à main 
   -  Les rabots 
     
--  # L'éléctroportatif 
+-  ### L'éléctroportatif 
   -  La perceuse 
   -  La visseuse 
   -  La ponceuse 
@@ -71,7 +71,7 @@ Index des sujets à traiter :
   -  Le rabot éléctrique 
     
 
--  # Les machines stationnaires 
+-  ### Les machines stationnaires 
   -  La scie radiale 
   -  La scie à format 
   -  les lames de scies circulaire 
@@ -89,83 +89,83 @@ Index des sujets à traiter :
   -  Le centre d'usinage numérique (CNC)
     
 
--  # Le profilage (les moulures) 
+-  ### Le profilage (les moulures) 
   - Les moulures contre profilables
   - Les moulures les plus courantes
 
 ## Techniques et méthodes de travail
 
--  # Les signes d'établissement 
--  # L'affutage 
+-  ### Les signes d'établissement 
+-  ### L'affutage 
   -  L'affutage des ciseaux 
   -  L'affutage du racloir 
   -  L'affutage des scies 
   -  Les machines d'affutage 
     
 
--  # La fiche de débit 
--  # Les assemblages 
+-  ### La fiche de débit 
+-  ### Les assemblages 
   -  Lamello et domino 
   -  Les tenons et mortaises 
   -  Les rainures et languettes 
   -  Les tourillons 
     
--  # Le collage 
+-  ### Le collage 
   -  Les types de colles 
   -  Les étapes du collage 
     
--  # Le serrage 
+-  ### Le serrage 
   -  Les outils de serrage 
   -  Les techniques de serrage 
     
--  # La finition 
--  # L'épure 
--  # Le montage d'usinage 
--  # Le chevillage 
--  # Le système 32 
--  # Le calpinage 
--  # La maintenance 
--  # Analogie des machines outils 
--  # Les symboles conventionnels des machines 
--  # L'isostatismes 
--  # Le dossier méthodes 
+-  ### La finition 
+-  ### L'épure 
+-  ### Le montage d'usinage 
+-  ### Le chevillage 
+-  ### Le système 32 
+-  ### Le calpinage 
+-  ### La maintenance 
+-  ### Analogie des machines outils 
+-  ### Les symboles conventionnels des machines 
+-  ### L'isostatismes 
+-  ### Le dossier méthodes 
   
-- # Le planning des phases 
-- # Les gammes d'usinage 
-- # La cinématique de coupe 
-- # Matrice des antériorités 
-- # Le bon de commande 
-- # Diagramme de Pert 
-- # Diagramme de Gant 
-- # L'isolation thermique 
-- # L'isolation acoustique 
-- # Géométrie descriptive 
-- # Resistance des matériaux 
-- # Pareto ABC 
-- # Temps 
-- # Les cotations 
-- # Nomenclature par niveau 
-- # La qualité 
-- # Le mode opératoire 
-- # Le métrage (relevé de mesures) 
+- ### Le planning des phases 
+- ### Les gammes d'usinage 
+- ### La cinématique de coupe 
+- ### Matrice des antériorités 
+- ### Le bon de commande 
+- ### Diagramme de Pert 
+- ### Diagramme de Gant 
+- ### L'isolation thermique 
+- ### L'isolation acoustique 
+- ### Géométrie descriptive 
+- ### Resistance des matériaux 
+- ### Pareto ABC 
+- ### Temps 
+- ### Les cotations 
+- ### Nomenclature par niveau 
+- ### La qualité 
+- ### Le mode opératoire 
+- ### Le métrage (relevé de mesures) 
 
 ## Les ouvrages de menuiserie
 
-- # Les portes intérieures 
-- # Les bâtis et les huisseries 
-- # Le parquet 
-- # Les fenetres 
-- # Les volets 
-- # Le lambris 
-- # Les gardes corps 
-- # Les escaliers
+- ### Les portes intérieures 
+- ### Les bâtis et les huisseries 
+- ### Le parquet 
+- ### Les fenetres 
+- ### Les volets 
+- ### Le lambris 
+- ### Les gardes corps 
+- ### Les escaliers
   -  Le vocabulaire de l'escalier 
   -  Les escaliers droits 
   -  Les escaliers tournants 
   -  Evaluation sur les escaliers 
 
-- # Le bardage 
-- # Les faux plafonds 
+- ### Le bardage 
+- ### Les faux plafonds 
   
 ## Le dessin technique
 
@@ -176,7 +176,7 @@ Index des sujets à traiter :
 -  Les bases du dessin 
 -  Les vues 
 -  Les coupes 
--  # Le logiciel Sketchup
+-  ### Le logiciel Sketchup
   -  les bases du logiciel 
   -  L'utilisation des outils avancés
   -  la mise en plan 
