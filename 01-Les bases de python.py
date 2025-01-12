@@ -93,3 +93,6 @@ vitesse_coupe = math.pi * diametre_outil * vitesse_rotation
 
 # Afficher le résultat avec une précision de deux décimales en mètres par minute
 print(f"La vitesse de coupe est de {vitesse_coupe} m/min.")
+
+
+
